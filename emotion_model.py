@@ -68,11 +68,11 @@ class KPoEMClassifier(nn.Module):
         ).to(self.device)
 
         with torch.no_grad():
-            outputs = self.electra(
-                input_ids=encoding["input_ids"],
-                attention_mask=encoding["attention_mask"],
-                token_type_ids=encoding["token_type_ids"],
-            )
+            # encoding을 그대로 언패킹해서 전달 (토크나이저가 실제로 반환한
+            # 키만 모델에 넘어감). 토크나이저 종류에 따라 token_type_ids가
+            # 없을 수도 있는데, 직접 encoding["token_type_ids"]로 접근하면
+            # 그 경우 KeyError가 나서 이렇게 바꿈.
+            outputs = self.electra(**encoding)
 
         pooled_output = outputs.last_hidden_state[:, 0, :]
         return self.classifier(pooled_output)
