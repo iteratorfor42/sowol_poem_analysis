@@ -73,8 +73,7 @@ def _configure_korean_font() -> fm.FontProperties | None:
 
 
 def build_emotion_matrix(
-    records: list[PoemRecord], top_n_emotions: int = 12
-) -> tuple[list[str], list[str], np.ndarray]:
+    records: list[PoemRecord], top_n_emotions: int = 12) -> tuple[list[str], list[str], np.ndarray]:
     """
     (시 제목 목록, 감정 라벨 목록, 확률 행렬)을 반환.
     감정 라벨은 전체 시집 기준으로 평균 확률이 높은 상위 top_n_emotions개만 사용
