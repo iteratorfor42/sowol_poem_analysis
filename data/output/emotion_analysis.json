@@ -1,0 +1,6449 @@
+{
+  "collection": "진달래꽃",
+  "section": "바다가 변하야 뽕나무밭 된다고",
+  "author": "김소월",
+  "model": "AKS-DHLAB/KPoEM",
+  "threshold": 0.3,
+  "poems": [
+    {
+      "index": 1,
+      "title": "불운에 우는 그대여",
+      "author": "김소월",
+      "collection": "진달래꽃 - 바다가 변하야 뽕나무밭 된다고",
+      "poem_level_emotions": [
+        {
+          "label": "슬픔",
+          "probability": 0.9524
+        },
+        {
+          "label": "안타까움/실망",
+          "probability": 0.8961
+        },
+        {
+          "label": "서러움",
+          "probability": 0.8791
+        },
+        {
+          "label": "불쌍함/연민",
+          "probability": 0.7219
+        },
+        {
+          "label": "불안/걱정",
+          "probability": 0.7042
+        },
+        {
+          "label": "아껴주는",
+          "probability": 0.6062
+        },
+        {
+          "label": "힘듦/지침",
+          "probability": 0.5281
+        },
+        {
+          "label": "깨달음",
+          "probability": 0.4193
+        },
+        {
+          "label": "비장함",
+          "probability": 0.3411
+        }
+      ],
+      "lines": [
+        {
+          "line_no": 1,
+          "text": "불운에 우는 그대여, 나는 아노라",
+          "emotions": [
+            {
+              "label": "슬픔",
+              "probability": 0.9451
+            },
+            {
+              "label": "서러움",
+              "probability": 0.8663
+            },
+            {
+              "label": "안타까움/실망",
+              "probability": 0.8548
+            },
+            {
+              "label": "불쌍함/연민",
+              "probability": 0.7018
+            },
+            {
+              "label": "아껴주는",
+              "probability": 0.6251
+            },
+            {
+              "label": "불안/걱정",
+              "probability": 0.5792
+            },
+            {
+              "label": "힘듦/지침",
+              "probability": 0.4939
+            },
+            {
+              "label": "깨달음",
+              "probability": 0.3855
+            },
+            {
+              "label": "비장함",
+              "probability": 0.3623
+            }
+          ]
+        },
+        {
+          "line_no": 2,
+          "text": "무엇이 그대의 불운을 지었는지도,",
+          "emotions": [
+            {
+              "label": "안타까움/실망",
+              "probability": 0.9444
+            },
+            {
+              "label": "슬픔",
+              "probability": 0.9099
+            },
+            {
+              "label": "불쌍함/연민",
+              "probability": 0.8309
+            },
+            {
+              "label": "불안/걱정",
+              "probability": 0.8188
+            },
+            {
+              "label": "서러움",
+              "probability": 0.7614
+            },
+            {
+              "label": "아껴주는",
+              "probability": 0.7465
+            },
+            {
+              "label": "당황/난처",
+              "probability": 0.4014
+            },
+            {
+              "label": "힘듦/지침",
+              "probability": 0.3216
+            },
+            {
+              "label": "부담/안_내킴",
+              "probability": 0.311
+            }
+          ]
+        },
+        {
+          "line_no": 3,
+          "text": "부는 바람에 날려,",
+          "emotions": [
+            {
+              "label": "신기함/관심",
+              "probability": 0.7787
+            },
+            {
+              "label": "슬픔",
+              "probability": 0.7235
+            },
+            {
+              "label": "감동/감탄",
+              "probability": 0.7081
+            },
+            {
+              "label": "불안/걱정",
+              "probability": 0.6863
+            },
+            {
+              "label": "서러움",
+              "probability": 0.582
+            },
+            {
+              "label": "놀람",
+              "probability": 0.5722
+            },
+            {
+              "label": "기대감",
+              "probability": 0.4983
+            },
+            {
+              "label": "없음",
+              "probability": 0.486
+            },
+            {
+              "label": "안타까움/실망",
+              "probability": 0.4722
+            },
+            {
+              "label": "당황/난처",
+              "probability": 0.4544
+            },
+            {
+              "label": "힘듦/지침",
+              "probability": 0.4465
+            },
+            {
+              "label": "깨달음",
+              "probability": 0.3235
+            }
+          ]
+        },
+        {
+          "line_no": 4,
+          "text": "밀물에 흘러,",
+          "emotions": [
+            {
+              "label": "신기함/관심",
+              "probability": 0.6934
+            },
+            {
+              "label": "슬픔",
+              "probability": 0.6863
+            },
+            {
+              "label": "없음",
+              "probability": 0.6665
+            },
+            {
+              "label": "기대감",
+              "probability": 0.6351
+            },
+            {
+              "label": "감동/감탄",
+              "probability": 0.6072
+            },
+            {
+              "label": "불안/걱정",
+              "probability": 0.5796
+            },
+            {
+              "label": "서러움",
+              "probability": 0.5461
+            },
+            {
+              "label": "힘듦/지침",
+              "probability": 0.44
+            },
+            {
+              "label": "편안/쾌적",
+              "probability": 0.338
+            }
+          ]
+        },
+        {
+          "line_no": 5,
+          "text": "굳어진 그대의 가슴 속도.",
+          "emotions": [
+            {
+              "label": "슬픔",
+              "probability": 0.9185
+            },
+            {
+              "label": "안타까움/실망",
+              "probability": 0.8336
+            },
+            {
+              "label": "불쌍함/연민",
+              "probability": 0.7863
+            },
+            {
+              "label": "서러움",
+              "probability": 0.7544
+            },
+            {
+              "label": "불안/걱정",
+              "probability": 0.7332
+            },
+            {
+              "label": "아껴주는",
+              "probability": 0.715
+            },
+            {
+              "label": "힘듦/지침",
+              "probability": 0.325
+            }
+          ]
+        },
+        {
+          "line_no": 6,
+          "text": "모다 지나간 나의 일이면.",
+          "emotions": [
+            {
+              "label": "슬픔",
+              "probability": 0.8976
+            },
+            {
+              "label": "서러움",
+              "probability": 0.891
+            },
+            {
+              "label": "힘듦/지침",
+              "probability": 0.8104
+            },
+            {
+              "label": "안타까움/실망",
+              "probability": 0.7864
+            },
+            {
+              "label": "깨달음",
+              "probability": 0.6973
+            },
+            {
+              "label": "불안/걱정",
+              "probability": 0.6623
+            },
+            {
+              "label": "부담/안_내킴",
+              "probability": 0.5503
+            },
+            {
+              "label": "비장함",
+              "probability": 0.4937
+            },
+            {
+              "label": "불쌍함/연민",
+              "probability": 0.3969
+            },
+            {
+              "label": "기대감",
+              "probability": 0.3515
+            },
+            {
+              "label": "아껴주는",
+              "probability": 0.336
+            },
+            {
+              "label": "패배/자기혐오",
+              "probability": 0.3031
+            }
+          ]
+        },
+        {
+          "line_no": 7,
+          "text": "다시금 또 다시금",
+          "emotions": [
+            {
+              "label": "기대감",
+              "probability": 0.9048
+            },
+            {
+              "label": "비장함",
+              "probability": 0.7706
+            },
+            {
+              "label": "서러움",
+              "probability": 0.5664
+            },
+            {
+              "label": "슬픔",
+              "probability": 0.5603
+            },
+            {
+              "label": "힘듦/지침",
+              "probability": 0.5526
+            },
+            {
+              "label": "감동/감탄",
+              "probability": 0.5309
+            },
+            {
+              "label": "깨달음",
+              "probability": 0.5194
+            },
+            {
+              "label": "불안/걱정",
+              "probability": 0.5118
+            },
+            {
+              "label": "기쁨",
+              "probability": 0.479
+            },
+            {
+              "label": "안타까움/실망",
+              "probability": 0.4692
+            },
+            {
+              "label": "없음",
+              "probability": 0.4288
+            },
+            {
+              "label": "신기함/관심",
+              "probability": 0.3457
+            },
+            {
+              "label": "환영/호의",
+              "probability": 0.3319
+            },
+            {
+              "label": "행복",
+              "probability": 0.3246
+            }
+          ]
+        },
+        {
+          "line_no": 8,
+          "text": "적황의 포말은 북고여라, 그대의 가슴속의",
+          "emotions": [
+            {
+              "label": "슬픔",
+              "probability": 0.9365
+            },
+            {
+              "label": "서러움",
+              "probability": 0.8441
+            },
+            {
+              "label": "불안/걱정",
+              "probability": 0.8204
+            },
+            {
+              "label": "안타까움/실망",
+              "probability": 0.8157
+            },
+            {
+              "label": "불쌍함/연민",
+              "probability": 0.78
+            },
+            {
+              "label": "아껴주는",
+              "probability": 0.7325
+            },
+            {
+              "label": "힘듦/지침",
+              "probability": 0.4876
+            },
+            {
+              "label": "비장함",
+              "probability": 0.4544
+            },
+            {
+              "label": "기대감",
+              "probability": 0.4482
+            },
+            {
+              "label": "신기함/관심",
+              "probability": 0.4008
+            },
+            {
+              "label": "깨달음",
+              "probability": 0.3686
+            }
+          ]
+        },
+        {
+          "line_no": 9,
+          "text": "암청의 이끼어, 거칠은 바위",
+          "emotions": [
+            {
+              "label": "불안/걱정",
+              "probability": 0.8597
+            },
+            {
+              "label": "신기함/관심",
+              "probability": 0.8585
+            },
+            {
+              "label": "감동/감탄",
+              "probability": 0.6021
+            },
+            {
+              "label": "놀람",
+              "probability": 0.5771
+            },
+            {
+              "label": "슬픔",
+              "probability": 0.5628
+            },
+            {
+              "label": "기대감",
+              "probability": 0.5479
+            },
+            {
+              "label": "비장함",
+              "probability": 0.5447
+            },
+            {
+              "label": "힘듦/지침",
+              "probability": 0.5202
+            },
+            {
+              "label": "공포/무서움",
+              "probability": 0.487
+            },
+            {
+              "label": "서러움",
+              "probability": 0.4668
+            },
+            {
+              "label": "없음",
+              "probability": 0.4622
+            },
+            {
+              "label": "깨달음",
+              "probability": 0.4396
+            },
+            {
+              "label": "부담/안_내킴",
+              "probability": 0.4302
+            },
+            {
+              "label": "불쌍함/연민",
+              "probability": 0.3804
+            }
+          ]
+        },
+        {
+          "line_no": 10,
+          "text": "치는 물가의.",
+          "emotions": [
+            {
+              "label": "없음",
+              "probability": 0.865
+            },
+            {
+              "label": "신기함/관심",
+              "probability": 0.7807
+            },
+            {
+              "label": "기대감",
+              "probability": 0.6943
+            },
+            {
+              "label": "불안/걱정",
+              "probability": 0.6353
+            },
+            {
+              "label": "힘듦/지침",
+              "probability": 0.3952
+            },
+            {
+              "label": "편안/쾌적",
+              "probability": 0.3323
+            },
+            {
+              "label": "슬픔",
+              "probability": 0.3096
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "title": "바다가 변하야 뽕나무밭 된다고",
+      "author": "김소월",
+      "collection": "진달래꽃 - 바다가 변하야 뽕나무밭 된다고",
+      "poem_level_emotions": [
+        {
+          "label": "슬픔",
+          "probability": 0.9691
+        },
+        {
+          "label": "서러움",
+          "probability": 0.9394
+        },
+        {
+          "label": "안타까움/실망",
+          "probability": 0.9326
+        },
+        {
+          "label": "불쌍함/연민",
+          "probability": 0.7751
+        },
+        {
+          "label": "불안/걱정",
+          "probability": 0.7237
+        },
+        {
+          "label": "힘듦/지침",
+          "probability": 0.6256
+        },
+        {
+          "label": "아껴주는",
+          "probability": 0.6242
+        },
+        {
+          "label": "깨달음",
+          "probability": 0.5115
+        },
+        {
+          "label": "절망",
+          "probability": 0.4334
+        },
+        {
+          "label": "비장함",
+          "probability": 0.3942
+        },
+        {
+          "label": "기대감",
+          "probability": 0.363
+        },
+        {
+          "label": "부담/안_내킴",
+          "probability": 0.3097
+        }
+      ],
+      "lines": [
+        {
+          "line_no": 1,
+          "text": "걷잡지 못할만한 나의 이 설움,",
+          "emotions": [
+            {
+              "label": "슬픔",
+              "probability": 0.925
+            },
+            {
+              "label": "서러움",
+              "probability": 0.895
+            },
+            {
+              "label": "안타까움/실망",
+              "probability": 0.8387
+            },
+            {
+              "label": "힘듦/지침",
+              "probability": 0.714
+            },
+            {
+              "label": "불안/걱정",
+              "probability": 0.6051
+            },
+            {
+              "label": "불쌍함/연민",
+              "probability": 0.5133
+            },
+            {
+              "label": "부담/안_내킴",
+              "probability": 0.4156
+            },
+            {
+              "label": "절망",
+              "probability": 0.3963
+            },
+            {
+              "label": "패배/자기혐오",
+              "probability": 0.3612
+            },
+            {
+              "label": "불평/불만",
+              "probability": 0.3113
+            }
+          ]
+        },
+        {
+          "line_no": 2,
+          "text": "저무는 봄저녁에 져가는 꽃잎,",
+          "emotions": [
+            {
+              "label": "슬픔",
+              "probability": 0.9044
+            },
+            {
+              "label": "서러움",
+              "probability": 0.8515
+            },
+            {
+              "label": "안타까움/실망",
+              "probability": 0.7947
+            },
+            {
+              "label": "불안/걱정",
+              "probability": 0.7811
+            },
+            {
+              "label": "신기함/관심",
+              "probability": 0.7315
+            },
+            {
+              "label": "불쌍함/연민",
+              "probability": 0.6761
+            },
+            {
+              "label": "힘듦/지침",
+              "probability": 0.5729
+            },
+            {
+              "label": "아껴주는",
+              "probability": 0.4365
+            },
+            {
+              "label": "감동/감탄",
+              "probability": 0.4353
+            },
+            {
+              "label": "기대감",
+              "probability": 0.422
+            },
+            {
+              "label": "부담/안_내킴",
+              "probability": 0.3931
+            },
+            {
+              "label": "당황/난처",
+              "probability": 0.3731
+            },
+            {
+              "label": "깨달음",
+              "probability": 0.3605
+            },
+            {
+              "label": "놀람",
+              "probability": 0.3005
+            }
+          ]
+        },
+        {
+          "line_no": 3,
+          "text": "져가는 꽃잎들은 나부끼어라.",
+          "emotions": [
+            {
+              "label": "아껴주는",
+              "probability": 0.8664
+            },
+            {
+              "label": "슬픔",
+              "probability": 0.8166
+            },
+            {
+              "label": "서러움",
+              "probability": 0.7303
+            },
+            {
+              "label": "신기함/관심",
+              "probability": 0.7302
+            },
+            {
+              "label": "감동/감탄",
+              "probability": 0.7089
+            },
+            {
+              "label": "기대감",
+              "probability": 0.6865
+            },
+            {
+              "label": "흐뭇함(귀여움/예쁨)",
+              "probability": 0.6755
+            },
+            {
+              "label": "불쌍함/연민",
+              "probability": 0.5854
+            },
+            {
+              "label": "안타까움/실망",
+              "probability": 0.5739
+            },
+            {
+              "label": "깨달음",
+              "probability": 0.4644
+            },
+            {
+              "label": "불안/걱정",
+              "probability": 0.4132
+            },
+            {
+              "label": "기쁨",
+              "probability": 0.395
+            },
+            {
+              "label": "환영/호의",
+              "probability": 0.382
+            },
+            {
+              "label": "비장함",
+              "probability": 0.3263
+            },
+            {
+              "label": "행복",
+              "probability": 0.3107
+            }
+          ]
+        },
+        {
+          "line_no": 4,
+          "text": "예로부터 일러오며 하는 말에도",
+          "emotions": [
+            {
+              "label": "기대감",
+              "probability": 0.8494
+            },
+            {
+              "label": "없음",
+              "probability": 0.6965
+            },
+            {
+              "label": "신기함/관심",
+              "probability": 0.648
+            },
+            {
+              "label": "비장함",
+              "probability": 0.5916
+            },
+            {
+              "label": "깨달음",
+              "probability": 0.5835
+            },
+            {
+              "label": "불안/걱정",
+              "probability": 0.5494
+            },
+            {
+              "label": "안심/신뢰",
+              "probability": 0.3099
+            },
+            {
+              "label": "부담/안_내킴",
+              "probability": 0.3068
+            }
+          ]
+        },
+        {
+          "line_no": 5,
+          "text": "바다가 변하야 뽕나무밭 된다고.",
+          "emotions": [
+            {
+              "label": "신기함/관심",
+              "probability": 0.9521
+            },
+            {
+              "label": "불안/걱정",
+              "probability": 0.7827
+            },
+            {
+              "label": "놀람",
+              "probability": 0.7157
+            },
+            {
+              "label": "깨달음",
+              "probability": 0.6176
+            },
+            {
+              "label": "기대감",
+              "probability": 0.5871
+            },
+            {
+              "label": "감동/감탄",
+              "probability": 0.5635
+            },
+            {
+              "label": "없음",
+              "probability": 0.4748
+            },
+            {
+              "label": "당황/난처",
+              "probability": 0.44
+            },
+            {
+              "label": "부담/안_내킴",
+              "probability": 0.4108
+            },
+            {
+              "label": "힘듦/지침",
+              "probability": 0.3123
+            },
+            {
+              "label": "안타까움/실망",
+              "probability": 0.3039
+            }
+          ]
+        },
+        {
+          "line_no": 6,
+          "text": "그러하다, 아름답은 청춘의 때의",
+          "emotions": [
+            {
+              "label": "감동/감탄",
+              "probability": 0.9533
+            },
+            {
+              "label": "기대감",
+              "probability": 0.9263
+            },
+            {
+              "label": "아껴주는",
+              "probability": 0.8314
+            },
+            {
+              "label": "기쁨",
+              "probability": 0.8077
+            },
+            {
+              "label": "환영/호의",
+              "probability": 0.7302
+            },
+            {
+              "label": "신기함/관심",
+              "probability": 0.6938
+            },
+            {
+              "label": "깨달음",
+              "probability": 0.5956
+            },
+            {
+              "label": "행복",
+              "probability": 0.5634
+            },
+            {
+              "label": "흐뭇함(귀여움/예쁨)",
+              "probability": 0.5281
+            },
+            {
+              "label": "비장함",
+              "probability": 0.4954
+            },
+            {
+              "label": "존경",
+              "probability": 0.4828
+            },
+            {
+              "label": "뿌듯함",
+              "probability": 0.388
+            },
+            {
+              "label": "슬픔",
+              "probability": 0.32
+            }
+          ]
+        },
+        {
+          "line_no": 7,
+          "text": "있다던 온갖 것은 눈에 설고",
+          "emotions": [
+            {
+              "label": "불안/걱정",
+              "probability": 0.9162
+            },
+            {
+              "label": "힘듦/지침",
+              "probability": 0.8305
+            },
+            {
+              "label": "서러움",
+              "probability": 0.809
+            },
+            {
+              "label": "슬픔",
+              "probability": 0.8072
+            },
+            {
+              "label": "기대감",
+              "probability": 0.7234
+            },
+            {
+              "label": "부담/안_내킴",
+              "probability": 0.6427
+            },
+            {
+              "label": "비장함",
+              "probability": 0.6369
+            },
+            {
+              "label": "깨달음",
+              "probability": 0.6169
+            },
+            {
+              "label": "신기함/관심",
+              "probability": 0.6028
+            },
+            {
+              "label": "안타까움/실망",
+              "probability": 0.6011
+            },
+            {
+              "label": "당황/난처",
+              "probability": 0.571
+            },
+            {
+              "label": "놀람",
+              "probability": 0.421
+            },
+            {
+              "label": "절망",
+              "probability": 0.3931
+            },
+            {
+              "label": "감동/감탄",
+              "probability": 0.3896
+            },
+            {
+              "label": "패배/자기혐오",
+              "probability": 0.3067
+            }
+          ]
+        },
+        {
+          "line_no": 8,
+          "text": "다시금 낯 모르게 되나니,",
+          "emotions": [
+            {
+              "label": "안타까움/실망",
+              "probability": 0.9578
+            },
+            {
+              "label": "슬픔",
+              "probability": 0.8976
+            },
+            {
+              "label": "서러움",
+              "probability": 0.8594
+            },
+            {
+              "label": "불안/걱정",
+              "probability": 0.7982
+            },
+            {
+              "label": "깨달음",
+              "probability": 0.7345
+            },
+            {
+              "label": "당황/난처",
+              "probability": 0.7008
+            },
+            {
+              "label": "힘듦/지침",
+              "probability": 0.693
+            },
+            {
+              "label": "부담/안_내킴",
+              "probability": 0.6642
+            },
+            {
+              "label": "불평/불만",
+              "probability": 0.4965
+            },
+            {
+              "label": "불쌍함/연민",
+              "probability": 0.4278
+            },
+            {
+              "label": "패배/자기혐오",
+              "probability": 0.4089
+            },
+            {
+              "label": "절망",
+              "probability": 0.3896
+            }
+          ]
+        },
+        {
+          "line_no": 9,
+          "text": "보아라, 그대여, 서럽지 않은가,",
+          "emotions": [
+            {
+              "label": "슬픔",
+              "probability": 0.9543
+            },
+            {
+              "label": "안타까움/실망",
+              "probability": 0.9256
+            },
+            {
+              "label": "서러움",
+              "probability": 0.8984
+            },
+            {
+              "label": "불쌍함/연민",
+              "probability": 0.7881
+            },
+            {
+              "label": "불안/걱정",
+              "probability": 0.7579
+            },
+            {
+              "label": "아껴주는",
+              "probability": 0.7292
+            },
+            {
+              "label": "힘듦/지침",
+              "probability": 0.483
+            },
+            {
+              "label": "비장함",
+              "probability": 0.4372
+            },
+            {
+              "label": "불평/불만",
+              "probability": 0.3652
+            },
+            {
+              "label": "당황/난처",
+              "probability": 0.3307
+            },
+            {
+              "label": "부담/안_내킴",
+              "probability": 0.3141
+            },
+            {
+              "label": "기대감",
+              "probability": 0.3052
+            },
+            {
+              "label": "절망",
+              "probability": 0.304
+            }
+          ]
+        },
+        {
+          "line_no": 10,
+          "text": "봄에도 삼월의 져가는 날에",
+          "emotions": [
+            {
+              "label": "슬픔",
+              "probability": 0.8685
+            },
+            {
+              "label": "서러움",
+              "probability": 0.8483
+            },
+            {
+              "label": "안타까움/실망",
+              "probability": 0.8218
+            },
+            {
+              "label": "힘듦/지침",
+              "probability": 0.8159
+            },
+            {
+              "label": "불안/걱정",
+              "probability": 0.8048
+            },
+            {
+              "label": "기대감",
+              "probability": 0.5661
+            },
+            {
+              "label": "부담/안_내킴",
+              "probability": 0.5397
+            },
+            {
+              "label": "당황/난처",
+              "probability": 0.3882
+            },
+            {
+              "label": "깨달음",
+              "probability": 0.3878
+            },
+            {
+              "label": "비장함",
+              "probability": 0.3611
+            },
+            {
+              "label": "없음",
+              "probability": 0.3376
+            },
+            {
+              "label": "절망",
+              "probability": 0.3143
+            },
+            {
+              "label": "신기함/관심",
+              "probability": 0.3079
+            },
+            {
+              "label": "불평/불만",
+              "probability": 0.3072
+            }
+          ]
+        },
+        {
+          "line_no": 11,
+          "text": "붉은 피같이도 쏟아져 나리는",
+          "emotions": [
+            {
+              "label": "불안/걱정",
+              "probability": 0.895
+            },
+            {
+              "label": "슬픔",
+              "probability": 0.8934
+            },
+            {
+              "label": "서러움",
+              "probability": 0.827
+            },
+            {
+              "label": "안타까움/실망",
+              "probability": 0.7783
+            },
+            {
+              "label": "당황/난처",
+              "probability": 0.7144
+            },
+            {
+              "label": "불쌍함/연민",
+              "probability": 0.7078
+            },
+            {
+              "label": "절망",
+              "probability": 0.6988
+            },
+            {
+              "label": "놀람",
+              "probability": 0.6985
+            },
+            {
+              "label": "공포/무서움",
+              "probability": 0.6654
+            },
+            {
+              "label": "경악",
+              "probability": 0.6506
+            },
+            {
+              "label": "힘듦/지침",
+              "probability": 0.6267
+            },
+            {
+              "label": "부담/안_내킴",
+              "probability": 0.4369
+            },
+            {
+              "label": "비장함",
+              "probability": 0.3356
+            },
+            {
+              "label": "화남/분노",
+              "probability": 0.3333
+            }
+          ]
+        },
+        {
+          "line_no": 12,
+          "text": "저기 저 꽃잎들을, 저기 저 꽃잎들을.",
+          "emotions": [
+            {
+              "label": "신기함/관심",
+              "probability": 0.8745
+            },
+            {
+              "label": "아껴주는",
+              "probability": 0.8557
+            },
+            {
+              "label": "기대감",
+              "probability": 0.8222
+            },
+            {
+              "label": "슬픔",
+              "probability": 0.6547
+            },
+            {
+              "label": "불안/걱정",
+              "probability": 0.6434
+            },
+            {
+              "label": "흐뭇함(귀여움/예쁨)",
+              "probability": 0.615
+            },
+            {
+              "label": "감동/감탄",
+              "probability": 0.5763
+            },
+            {
+              "label": "불쌍함/연민",
+              "probability": 0.497
+            },
+            {
+              "label": "서러움",
+              "probability": 0.433
+            },
+            {
+              "label": "환영/호의",
+              "probability": 0.378
+            },
+            {
+              "label": "기쁨",
+              "probability": 0.3661
+            },
+            {
+              "label": "없음",
+              "probability": 0.3198
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "title": "황촉불",
+      "author": "김소월",
+      "collection": "진달래꽃 - 바다가 변하야 뽕나무밭 된다고",
+      "poem_level_emotions": [
+        {
+          "label": "슬픔",
+          "probability": 0.9559
+        },
+        {
+          "label": "서러움",
+          "probability": 0.9309
+        },
+        {
+          "label": "안타까움/실망",
+          "probability": 0.8931
+        },
+        {
+          "label": "힘듦/지침",
+          "probability": 0.8385
+        },
+        {
+          "label": "불안/걱정",
+          "probability": 0.803
+        },
+        {
+          "label": "불쌍함/연민",
+          "probability": 0.666
+        },
+        {
+          "label": "절망",
+          "probability": 0.5297
+        },
+        {
+          "label": "부담/안_내킴",
+          "probability": 0.4922
+        },
+        {
+          "label": "패배/자기혐오",
+          "probability": 0.4852
+        },
+        {
+          "label": "깨달음",
+          "probability": 0.4811
+        },
+        {
+          "label": "당황/난처",
+          "probability": 0.3361
+        }
+      ],
+      "lines": [
+        {
+          "line_no": 1,
+          "text": "황촉불, 그저도 까맣게",
+          "emotions": [
+            {
+              "label": "불안/걱정",
+              "probability": 0.8912
+            },
+            {
+              "label": "신기함/관심",
+              "probability": 0.7221
+            },
+            {
+              "label": "당황/난처",
+              "probability": 0.7186
+            },
+            {
+              "label": "놀람",
+              "probability": 0.6323
+            },
+            {
+              "label": "힘듦/지침",
+              "probability": 0.5689
+            },
+            {
+              "label": "슬픔",
+              "probability": 0.5479
+            },
+            {
+              "label": "없음",
+              "probability": 0.527
+            },
+            {
+              "label": "부담/안_내킴",
+              "probability": 0.4817
+            },
+            {
+              "label": "안타까움/실망",
+              "probability": 0.4794
+            },
+            {
+              "label": "서러움",
+              "probability": 0.3825
+            },
+            {
+              "label": "불쌍함/연민",
+              "probability": 0.3205
+            },
+            {
+              "label": "공포/무서움",
+              "probability": 0.3186
+            }
+          ]
+        },
+        {
+          "line_no": 2,
+          "text": "스러져가는 푸른 창(窓)을 기대고",
+          "emotions": [
+            {
+              "label": "불안/걱정",
+              "probability": 0.8979
+            },
+            {
+              "label": "슬픔",
+              "probability": 0.7784
+            },
+            {
+              "label": "기대감",
+              "probability": 0.7291
+            },
+            {
+              "label": "힘듦/지침",
+              "probability": 0.7268
+            },
+            {
+              "label": "서러움",
+              "probability": 0.6738
+            },
+            {
+              "label": "신기함/관심",
+              "probability": 0.6108
+            },
+            {
+              "label": "안타까움/실망",
+              "probability": 0.48
+            },
+            {
+              "label": "부담/안_내킴",
+              "probability": 0.4737
+            },
+            {
+              "label": "없음",
+              "probability": 0.3858
+            },
+            {
+              "label": "불쌍함/연민",
+              "probability": 0.3615
+            },
+            {
+              "label": "비장함",
+              "probability": 0.3416
+            }
+          ]
+        },
+        {
+          "line_no": 3,
+          "text": "소리조차 없는 흰 밤에,",
+          "emotions": [
+            {
+              "label": "불안/걱정",
+              "probability": 0.9212
+            },
+            {
+              "label": "당황/난처",
+              "probability": 0.7646
+            },
+            {
+              "label": "힘듦/지침",
+              "probability": 0.6817
+            },
+            {
+              "label": "슬픔",
+              "probability": 0.6725
+            },
+            {
+              "label": "안타까움/실망",
+              "probability": 0.6525
+            },
+            {
+              "label": "신기함/관심",
+              "probability": 0.6395
+            },
+            {
+              "label": "놀람",
+              "probability": 0.6171
+            },
+            {
+              "label": "서러움",
+              "probability": 0.5933
+            },
+            {
+              "label": "부담/안_내킴",
+              "probability": 0.5605
+            },
+            {
+              "label": "절망",
+              "probability": 0.3553
+            },
+            {
+              "label": "없음",
+              "probability": 0.3385
+            },
+            {
+              "label": "공포/무서움",
+              "probability": 0.3367
+            },
+            {
+              "label": "기대감",
+              "probability": 0.3347
+            }
+          ]
+        },
+        {
+          "line_no": 4,
+          "text": "나는 혼자 거울에 얼굴을 묻고",
+          "emotions": [
+            {
+              "label": "힘듦/지침",
+              "probability": 0.8413
+            },
+            {
+              "label": "슬픔",
+              "probability": 0.8262
+            },
+            {
+              "label": "불안/걱정",
+              "probability": 0.8052
+            },
+            {
+              "label": "서러움",
+              "probability": 0.7999
+            },
+            {
+              "label": "부담/안_내킴",
+              "probability": 0.5944
+            },
+            {
+              "label": "안타까움/실망",
+              "probability": 0.5846
+            },
+            {
+              "label": "불쌍함/연민",
+              "probability": 0.512
+            },
+            {
+              "label": "당황/난처",
+              "probability": 0.5102
+            },
+            {
+              "label": "패배/자기혐오",
+              "probability": 0.3146
+            },
+            {
+              "label": "없음",
+              "probability": 0.3036
+            }
+          ]
+        },
+        {
+          "line_no": 5,
+          "text": "뜻없이 생각없이 들여다보노라.",
+          "emotions": [
+            {
+              "label": "힘듦/지침",
+              "probability": 0.8448
+            },
+            {
+              "label": "불안/걱정",
+              "probability": 0.7693
+            },
+            {
+              "label": "부담/안_내킴",
+              "probability": 0.7578
+            },
+            {
+              "label": "서러움",
+              "probability": 0.7311
+            },
+            {
+              "label": "안타까움/실망",
+              "probability": 0.7277
+            },
+            {
+              "label": "슬픔",
+              "probability": 0.7232
+            },
+            {
+              "label": "당황/난처",
+              "probability": 0.6363
+            },
+            {
+              "label": "깨달음",
+              "probability": 0.5619
+            },
+            {
+              "label": "패배/자기혐오",
+              "probability": 0.5161
+            },
+            {
+              "label": "재미없음",
+              "probability": 0.3525
+            },
+            {
+              "label": "절망",
+              "probability": 0.3498
+            },
+            {
+              "label": "지긋지긋",
+              "probability": 0.3149
+            }
+          ]
+        },
+        {
+          "line_no": 6,
+          "text": "나는 이르노니, '우리 사람들",
+          "emotions": [
+            {
+              "label": "비장함",
+              "probability": 0.8501
+            },
+            {
+              "label": "기대감",
+              "probability": 0.7701
+            },
+            {
+              "label": "아껴주는",
+              "probability": 0.7001
+            },
+            {
+              "label": "안심/신뢰",
+              "probability": 0.5817
+            },
+            {
+              "label": "없음",
+              "probability": 0.5515
+            },
+            {
+              "label": "환영/호의",
+              "probability": 0.4674
+            },
+            {
+              "label": "기쁨",
+              "probability": 0.4323
+            },
+            {
+              "label": "뿌듯함",
+              "probability": 0.3236
+            }
+          ]
+        },
+        {
+          "line_no": 7,
+          "text": "첫날밤은 꿈속으로 보내고",
+          "emotions": [
+            {
+              "label": "힘듦/지침",
+              "probability": 0.7813
+            },
+            {
+              "label": "슬픔",
+              "probability": 0.7477
+            },
+            {
+              "label": "서러움",
+              "probability": 0.7231
+            },
+            {
+              "label": "불안/걱정",
+              "probability": 0.7004
+            },
+            {
+              "label": "안타까움/실망",
+              "probability": 0.5652
+            },
+            {
+              "label": "부담/안_내킴",
+              "probability": 0.455
+            },
+            {
+              "label": "기대감",
+              "probability": 0.4061
+            },
+            {
+              "label": "없음",
+              "probability": 0.3603
+            },
+            {
+              "label": "편안/쾌적",
+              "probability": 0.3201
+            }
+          ]
+        },
+        {
+          "line_no": 8,
+          "text": "죽음은 조는 동안에 와서,",
+          "emotions": [
+            {
+              "label": "슬픔",
+              "probability": 0.9117
+            },
+            {
+              "label": "서러움",
+              "probability": 0.8512
+            },
+            {
+              "label": "안타까움/실망",
+              "probability": 0.8043
+            },
+            {
+              "label": "불안/걱정",
+              "probability": 0.7899
+            },
+            {
+              "label": "힘듦/지침",
+              "probability": 0.714
+            },
+            {
+              "label": "불쌍함/연민",
+              "probability": 0.6573
+            },
+            {
+              "label": "아껴주는",
+              "probability": 0.3987
+            },
+            {
+              "label": "부담/안_내킴",
+              "probability": 0.364
+            },
+            {
+              "label": "깨달음",
+              "probability": 0.3616
+            },
+            {
+              "label": "비장함",
+              "probability": 0.3392
+            }
+          ]
+        },
+        {
+          "line_no": 9,
+          "text": "별(別) 좋은 일도 없이 스러지고 말어라'.",
+          "emotions": [
+            {
+              "label": "안타까움/실망",
+              "probability": 0.9585
+            },
+            {
+              "label": "슬픔",
+              "probability": 0.9248
+            },
+            {
+              "label": "서러움",
+              "probability": 0.8599
+            },
+            {
+              "label": "불쌍함/연민",
+              "probability": 0.7402
+            },
+            {
+              "label": "불안/걱정",
+              "probability": 0.6148
+            },
+            {
+              "label": "힘듦/지침",
+              "probability": 0.5489
+            },
+            {
+              "label": "부담/안_내킴",
+              "probability": 0.4138
+            },
+            {
+              "label": "불평/불만",
+              "probability": 0.3752
+            },
+            {
+              "label": "절망",
+              "probability": 0.3602
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "title": "맘에 있는 말이라고 다 할까 보냐",
+      "author": "김소월",
+      "collection": "진달래꽃 - 바다가 변하야 뽕나무밭 된다고",
+      "poem_level_emotions": [
+        {
+          "label": "안타까움/실망",
+          "probability": 0.9239
+        },
+        {
+          "label": "슬픔",
+          "probability": 0.9164
+        },
+        {
+          "label": "서러움",
+          "probability": 0.8887
+        },
+        {
+          "label": "불안/걱정",
+          "probability": 0.8593
+        },
+        {
+          "label": "비장함",
+          "probability": 0.8576
+        },
+        {
+          "label": "불쌍함/연민",
+          "probability": 0.807
+        },
+        {
+          "label": "힘듦/지침",
+          "probability": 0.7046
+        },
+        {
+          "label": "아껴주는",
+          "probability": 0.6803
+        },
+        {
+          "label": "깨달음",
+          "probability": 0.6074
+        },
+        {
+          "label": "불평/불만",
+          "probability": 0.5991
+        },
+        {
+          "label": "패배/자기혐오",
+          "probability": 0.5756
+        },
+        {
+          "label": "부담/안_내킴",
+          "probability": 0.5727
+        },
+        {
+          "label": "절망",
+          "probability": 0.562
+        },
+        {
+          "label": "지긋지긋",
+          "probability": 0.4734
+        },
+        {
+          "label": "의심/불신",
+          "probability": 0.4281
+        },
+        {
+          "label": "화남/분노",
+          "probability": 0.4068
+        },
+        {
+          "label": "한심함",
+          "probability": 0.4048
+        },
+        {
+          "label": "증오/혐오",
+          "probability": 0.3436
+        },
+        {
+          "label": "당황/난처",
+          "probability": 0.3211
+        },
+        {
+          "label": "기대감",
+          "probability": 0.3086
+        }
+      ],
+      "lines": [
+        {
+          "line_no": 1,
+          "text": "하소연하며 한숨을 지으며",
+          "emotions": [
+            {
+              "label": "슬픔",
+              "probability": 0.8605
+            },
+            {
+              "label": "서러움",
+              "probability": 0.8364
+            },
+            {
+              "label": "힘듦/지침",
+              "probability": 0.8237
+            },
+            {
+              "label": "안타까움/실망",
+              "probability": 0.7598
+            },
+            {
+              "label": "불안/걱정",
+              "probability": 0.6752
+            },
+            {
+              "label": "부담/안_내킴",
+              "probability": 0.5573
+            },
+            {
+              "label": "절망",
+              "probability": 0.428
+            },
+            {
+              "label": "패배/자기혐오",
+              "probability": 0.3922
+            },
+            {
+              "label": "지긋지긋",
+              "probability": 0.3853
+            },
+            {
+              "label": "불평/불만",
+              "probability": 0.3303
+            }
+          ]
+        },
+        {
+          "line_no": 2,
+          "text": "세상을 괴로워하는 사람들이어!",
+          "emotions": [
+            {
+              "label": "불쌍함/연민",
+              "probability": 0.8931
+            },
+            {
+              "label": "슬픔",
+              "probability": 0.8831
+            },
+            {
+              "label": "불안/걱정",
+              "probability": 0.8662
+            },
+            {
+              "label": "안타까움/실망",
+              "probability": 0.8458
+            },
+            {
+              "label": "아껴주는",
+              "probability": 0.826
+            },
+            {
+              "label": "비장함",
+              "probability": 0.7721
+            },
+            {
+              "label": "서러움",
+              "probability": 0.7506
+            },
+            {
+              "label": "힘듦/지침",
+              "probability": 0.4545
+            },
+            {
+              "label": "화남/분노",
+              "probability": 0.4241
+            },
+            {
+              "label": "절망",
+              "probability": 0.3385
+            },
+            {
+              "label": "부담/안_내킴",
+              "probability": 0.3037
+            }
+          ]
+        },
+        {
+          "line_no": 3,
+          "text": "말을 나쁘지 않도록 조히 꾸밈은",
+          "emotions": [
+            {
+              "label": "불안/걱정",
+              "probability": 0.782
+            },
+            {
+              "label": "힘듦/지침",
+              "probability": 0.5598
+            },
+            {
+              "label": "부담/안_내킴",
+              "probability": 0.5107
+            },
+            {
+              "label": "기대감",
+              "probability": 0.5068
+            },
+            {
+              "label": "없음",
+              "probability": 0.4647
+            },
+            {
+              "label": "안심/신뢰",
+              "probability": 0.4605
+            },
+            {
+              "label": "당황/난처",
+              "probability": 0.3998
+            },
+            {
+              "label": "편안/쾌적",
+              "probability": 0.3944
+            }
+          ]
+        },
+        {
+          "line_no": 4,
+          "text": "달아진 이 세상의 버릇이라고, 오오 그대들!",
+          "emotions": [
+            {
+              "label": "기대감",
+              "probability": 0.8677
+            },
+            {
+              "label": "감동/감탄",
+              "probability": 0.7784
+            },
+            {
+              "label": "놀람",
+              "probability": 0.7025
+            },
+            {
+              "label": "비장함",
+              "probability": 0.674
+            },
+            {
+              "label": "아껴주는",
+              "probability": 0.6626
+            },
+            {
+              "label": "환영/호의",
+              "probability": 0.649
+            },
+            {
+              "label": "기쁨",
+              "probability": 0.625
+            },
+            {
+              "label": "신기함/관심",
+              "probability": 0.622
+            },
+            {
+              "label": "불안/걱정",
+              "probability": 0.5691
+            },
+            {
+              "label": "당황/난처",
+              "probability": 0.5171
+            },
+            {
+              "label": "존경",
+              "probability": 0.5145
+            },
+            {
+              "label": "깨달음",
+              "probability": 0.5126
+            },
+            {
+              "label": "안심/신뢰",
+              "probability": 0.4811
+            },
+            {
+              "label": "뿌듯함",
+              "probability": 0.4746
+            },
+            {
+              "label": "즐거움/신남",
+              "probability": 0.4109
+            },
+            {
+              "label": "안타까움/실망",
+              "probability": 0.3826
+            },
+            {
+              "label": "불평/불만",
+              "probability": 0.3512
+            },
+            {
+              "label": "서러움",
+              "probability": 0.3452
+            },
+            {
+              "label": "고마움",
+              "probability": 0.3174
+            }
+          ]
+        },
+        {
+          "line_no": 5,
+          "text": "맘에 있는 말이라고 다 할까보냐.",
+          "emotions": [
+            {
+              "label": "안타까움/실망",
+              "probability": 0.8759
+            },
+            {
+              "label": "불평/불만",
+              "probability": 0.8537
+            },
+            {
+              "label": "한심함",
+              "probability": 0.8417
+            },
+            {
+              "label": "의심/불신",
+              "probability": 0.8198
+            },
+            {
+              "label": "불안/걱정",
+              "probability": 0.6975
+            },
+            {
+              "label": "부담/안_내킴",
+              "probability": 0.6679
+            },
+            {
+              "label": "어이없음",
+              "probability": 0.6436
+            },
+            {
+              "label": "짜증",
+              "probability": 0.5788
+            },
+            {
+              "label": "당황/난처",
+              "probability": 0.566
+            },
+            {
+              "label": "지긋지긋",
+              "probability": 0.5468
+            },
+            {
+              "label": "우쭐댐/무시함",
+              "probability": 0.5189
+            },
+            {
+              "label": "힘듦/지침",
+              "probability": 0.3686
+            },
+            {
+              "label": "서러움",
+              "probability": 0.368
+            },
+            {
+              "label": "불쌍함/연민",
+              "probability": 0.3454
+            },
+            {
+              "label": "귀찮음",
+              "probability": 0.3227
+            },
+            {
+              "label": "깨달음",
+              "probability": 0.3205
+            },
+            {
+              "label": "슬픔",
+              "probability": 0.3199
+            }
+          ]
+        },
+        {
+          "line_no": 6,
+          "text": "두세 번(番) 생각하라, 위선(爲先) 그것이",
+          "emotions": [
+            {
+              "label": "의심/불신",
+              "probability": 0.8841
+            },
+            {
+              "label": "안타까움/실망",
+              "probability": 0.8726
+            },
+            {
+              "label": "불평/불만",
+              "probability": 0.8406
+            },
+            {
+              "label": "비장함",
+              "probability": 0.7974
+            },
+            {
+              "label": "한심함",
+              "probability": 0.7523
+            },
+            {
+              "label": "불안/걱정",
+              "probability": 0.7486
+            },
+            {
+              "label": "부담/안_내킴",
+              "probability": 0.7029
+            },
+            {
+              "label": "지긋지긋",
+              "probability": 0.6581
+            },
+            {
+              "label": "증오/혐오",
+              "probability": 0.5807
+            },
+            {
+              "label": "깨달음",
+              "probability": 0.575
+            },
+            {
+              "label": "화남/분노",
+              "probability": 0.5073
+            },
+            {
+              "label": "짜증",
+              "probability": 0.424
+            },
+            {
+              "label": "우쭐댐/무시함",
+              "probability": 0.4198
+            },
+            {
+              "label": "슬픔",
+              "probability": 0.3636
+            },
+            {
+              "label": "절망",
+              "probability": 0.3447
+            },
+            {
+              "label": "패배/자기혐오",
+              "probability": 0.3256
+            },
+            {
+              "label": "서러움",
+              "probability": 0.3144
+            },
+            {
+              "label": "당황/난처",
+              "probability": 0.3054
+            }
+          ]
+        },
+        {
+          "line_no": 7,
+          "text": "저부터 밑지고 들어가는 장사일진댄.",
+          "emotions": [
+            {
+              "label": "안타까움/실망",
+              "probability": 0.9509
+            },
+            {
+              "label": "불안/걱정",
+              "probability": 0.9258
+            },
+            {
+              "label": "당황/난처",
+              "probability": 0.7488
+            },
+            {
+              "label": "슬픔",
+              "probability": 0.7306
+            },
+            {
+              "label": "부담/안_내킴",
+              "probability": 0.7243
+            },
+            {
+              "label": "불쌍함/연민",
+              "probability": 0.7033
+            },
+            {
+              "label": "서러움",
+              "probability": 0.6924
+            },
+            {
+              "label": "힘듦/지침",
+              "probability": 0.6361
+            },
+            {
+              "label": "불평/불만",
+              "probability": 0.6329
+            },
+            {
+              "label": "의심/불신",
+              "probability": 0.5689
+            },
+            {
+              "label": "한심함",
+              "probability": 0.5672
+            },
+            {
+              "label": "절망",
+              "probability": 0.3983
+            },
+            {
+              "label": "지긋지긋",
+              "probability": 0.3755
+            }
+          ]
+        },
+        {
+          "line_no": 8,
+          "text": "사는 법(法)이 근심은 못 갈은다고,",
+          "emotions": [
+            {
+              "label": "불안/걱정",
+              "probability": 0.9029
+            },
+            {
+              "label": "안타까움/실망",
+              "probability": 0.8444
+            },
+            {
+              "label": "부담/안_내킴",
+              "probability": 0.7803
+            },
+            {
+              "label": "힘듦/지침",
+              "probability": 0.7233
+            },
+            {
+              "label": "당황/난처",
+              "probability": 0.6893
+            },
+            {
+              "label": "슬픔",
+              "probability": 0.6485
+            },
+            {
+              "label": "서러움",
+              "probability": 0.6316
+            },
+            {
+              "label": "깨달음",
+              "probability": 0.604
+            },
+            {
+              "label": "불평/불만",
+              "probability": 0.4152
+            },
+            {
+              "label": "비장함",
+              "probability": 0.3621
+            },
+            {
+              "label": "의심/불신",
+              "probability": 0.344
+            }
+          ]
+        },
+        {
+          "line_no": 9,
+          "text": "남의 설움을 남은 몰라라.",
+          "emotions": [
+            {
+              "label": "슬픔",
+              "probability": 0.9387
+            },
+            {
+              "label": "안타까움/실망",
+              "probability": 0.917
+            },
+            {
+              "label": "서러움",
+              "probability": 0.9094
+            },
+            {
+              "label": "불쌍함/연민",
+              "probability": 0.738
+            },
+            {
+              "label": "힘듦/지침",
+              "probability": 0.5705
+            },
+            {
+              "label": "불평/불만",
+              "probability": 0.4432
+            },
+            {
+              "label": "불안/걱정",
+              "probability": 0.431
+            },
+            {
+              "label": "아껴주는",
+              "probability": 0.3977
+            },
+            {
+              "label": "부담/안_내킴",
+              "probability": 0.3612
+            },
+            {
+              "label": "한심함",
+              "probability": 0.3516
+            },
+            {
+              "label": "패배/자기혐오",
+              "probability": 0.3407
+            },
+            {
+              "label": "깨달음",
+              "probability": 0.3402
+            },
+            {
+              "label": "절망",
+              "probability": 0.3271
+            }
+          ]
+        },
+        {
+          "line_no": 10,
+          "text": "말 마라, 세상, 세상 사람은",
+          "emotions": [
+            {
+              "label": "안타까움/실망",
+              "probability": 0.8754
+            },
+            {
+              "label": "불평/불만",
+              "probability": 0.8325
+            },
+            {
+              "label": "의심/불신",
+              "probability": 0.8167
+            },
+            {
+              "label": "비장함",
+              "probability": 0.7916
+            },
+            {
+              "label": "부담/안_내킴",
+              "probability": 0.743
+            },
+            {
+              "label": "불안/걱정",
+              "probability": 0.7398
+            },
+            {
+              "label": "지긋지긋",
+              "probability": 0.7375
+            },
+            {
+              "label": "한심함",
+              "probability": 0.689
+            },
+            {
+              "label": "서러움",
+              "probability": 0.6806
+            },
+            {
+              "label": "슬픔",
+              "probability": 0.6667
+            },
+            {
+              "label": "절망",
+              "probability": 0.6425
+            },
+            {
+              "label": "증오/혐오",
+              "probability": 0.6357
+            },
+            {
+              "label": "화남/분노",
+              "probability": 0.588
+            },
+            {
+              "label": "패배/자기혐오",
+              "probability": 0.5643
+            },
+            {
+              "label": "힘듦/지침",
+              "probability": 0.5382
+            },
+            {
+              "label": "깨달음",
+              "probability": 0.4684
+            },
+            {
+              "label": "짜증",
+              "probability": 0.4229
+            },
+            {
+              "label": "우쭐댐/무시함",
+              "probability": 0.3104
+            }
+          ]
+        },
+        {
+          "line_no": 11,
+          "text": "세상에 좋은 이름 좋은 말로서",
+          "emotions": [
+            {
+              "label": "기대감",
+              "probability": 0.9231
+            },
+            {
+              "label": "환영/호의",
+              "probability": 0.7956
+            },
+            {
+              "label": "기쁨",
+              "probability": 0.7753
+            },
+            {
+              "label": "감동/감탄",
+              "probability": 0.7732
+            },
+            {
+              "label": "신기함/관심",
+              "probability": 0.74
+            },
+            {
+              "label": "아껴주는",
+              "probability": 0.7008
+            },
+            {
+              "label": "안심/신뢰",
+              "probability": 0.6396
+            },
+            {
+              "label": "행복",
+              "probability": 0.512
+            },
+            {
+              "label": "고마움",
+              "probability": 0.4819
+            },
+            {
+              "label": "뿌듯함",
+              "probability": 0.4699
+            },
+            {
+              "label": "깨달음",
+              "probability": 0.4321
+            },
+            {
+              "label": "흐뭇함(귀여움/예쁨)",
+              "probability": 0.4029
+            },
+            {
+              "label": "즐거움/신남",
+              "probability": 0.382
+            },
+            {
+              "label": "편안/쾌적",
+              "probability": 0.3758
+            },
+            {
+              "label": "존경",
+              "probability": 0.3445
+            },
+            {
+              "label": "없음",
+              "probability": 0.3073
+            }
+          ]
+        },
+        {
+          "line_no": 12,
+          "text": "한 사람을 속옷마저 벗긴 뒤에는",
+          "emotions": [
+            {
+              "label": "불안/걱정",
+              "probability": 0.9246
+            },
+            {
+              "label": "공포/무서움",
+              "probability": 0.8299
+            },
+            {
+              "label": "당황/난처",
+              "probability": 0.7996
+            },
+            {
+              "label": "경악",
+              "probability": 0.7105
+            },
+            {
+              "label": "놀람",
+              "probability": 0.6226
+            },
+            {
+              "label": "부담/안_내킴",
+              "probability": 0.5722
+            },
+            {
+              "label": "안타까움/실망",
+              "probability": 0.447
+            },
+            {
+              "label": "슬픔",
+              "probability": 0.4384
+            },
+            {
+              "label": "힘듦/지침",
+              "probability": 0.4224
+            },
+            {
+              "label": "절망",
+              "probability": 0.4122
+            },
+            {
+              "label": "서러움",
+              "probability": 0.3623
+            },
+            {
+              "label": "화남/분노",
+              "probability": 0.3612
+            },
+            {
+              "label": "의심/불신",
+              "probability": 0.3562
+            },
+            {
+              "label": "불쌍함/연민",
+              "probability": 0.351
+            },
+            {
+              "label": "비장함",
+              "probability": 0.3419
+            }
+          ]
+        },
+        {
+          "line_no": 13,
+          "text": "그를 네길거리에 세워 놓아라, 장승도 마치한가지.",
+          "emotions": [
+            {
+              "label": "비장함",
+              "probability": 0.9266
+            },
+            {
+              "label": "증오/혐오",
+              "probability": 0.6107
+            },
+            {
+              "label": "화남/분노",
+              "probability": 0.5443
+            },
+            {
+              "label": "불평/불만",
+              "probability": 0.5026
+            },
+            {
+              "label": "부담/안_내킴",
+              "probability": 0.4897
+            },
+            {
+              "label": "기대감",
+              "probability": 0.4619
+            },
+            {
+              "label": "불안/걱정",
+              "probability": 0.4437
+            },
+            {
+              "label": "지긋지긋",
+              "probability": 0.3936
+            },
+            {
+              "label": "의심/불신",
+              "probability": 0.3668
+            },
+            {
+              "label": "우쭐댐/무시함",
+              "probability": 0.3476
+            },
+            {
+              "label": "짜증",
+              "probability": 0.3155
+            },
+            {
+              "label": "없음",
+              "probability": 0.302
+            }
+          ]
+        },
+        {
+          "line_no": 14,
+          "text": "이 무슨 일이냐, 그날로부터,",
+          "emotions": [
+            {
+              "label": "불안/걱정",
+              "probability": 0.9349
+            },
+            {
+              "label": "당황/난처",
+              "probability": 0.9298
+            },
+            {
+              "label": "안타까움/실망",
+              "probability": 0.8681
+            },
+            {
+              "label": "놀람",
+              "probability": 0.6869
+            },
+            {
+              "label": "슬픔",
+              "probability": 0.6681
+            },
+            {
+              "label": "경악",
+              "probability": 0.6126
+            },
+            {
+              "label": "절망",
+              "probability": 0.5596
+            },
+            {
+              "label": "불평/불만",
+              "probability": 0.546
+            },
+            {
+              "label": "서러움",
+              "probability": 0.5085
+            },
+            {
+              "label": "의심/불신",
+              "probability": 0.4953
+            },
+            {
+              "label": "공포/무서움",
+              "probability": 0.4779
+            },
+            {
+              "label": "부담/안_내킴",
+              "probability": 0.4602
+            },
+            {
+              "label": "힘듦/지침",
+              "probability": 0.4083
+            }
+          ]
+        },
+        {
+          "line_no": 15,
+          "text": "세상 사람들은 제각금 제 비위(脾胃)의 헐한 값으로",
+          "emotions": [
+            {
+              "label": "안타까움/실망",
+              "probability": 0.9104
+            },
+            {
+              "label": "서러움",
+              "probability": 0.8635
+            },
+            {
+              "label": "슬픔",
+              "probability": 0.8588
+            },
+            {
+              "label": "부담/안_내킴",
+              "probability": 0.7555
+            },
+            {
+              "label": "힘듦/지침",
+              "probability": 0.7512
+            },
+            {
+              "label": "패배/자기혐오",
+              "probability": 0.7392
+            },
+            {
+              "label": "불안/걱정",
+              "probability": 0.7198
+            },
+            {
+              "label": "한심함",
+              "probability": 0.7005
+            },
+            {
+              "label": "깨달음",
+              "probability": 0.6834
+            },
+            {
+              "label": "불평/불만",
+              "probability": 0.6232
+            },
+            {
+              "label": "지긋지긋",
+              "probability": 0.6121
+            },
+            {
+              "label": "절망",
+              "probability": 0.6092
+            },
+            {
+              "label": "불쌍함/연민",
+              "probability": 0.5561
+            },
+            {
+              "label": "당황/난처",
+              "probability": 0.4022
+            },
+            {
+              "label": "의심/불신",
+              "probability": 0.4
+            },
+            {
+              "label": "비장함",
+              "probability": 0.3912
+            },
+            {
+              "label": "부끄러움",
+              "probability": 0.3095
+            },
+            {
+              "label": "증오/혐오",
+              "probability": 0.3069
+            }
+          ]
+        },
+        {
+          "line_no": 16,
+          "text": "그의 몸값을 매마쟈고 덤벼들어라.",
+          "emotions": [
+            {
+              "label": "비장함",
+              "probability": 0.931
+            },
+            {
+              "label": "기대감",
+              "probability": 0.7459
+            },
+            {
+              "label": "화남/분노",
+              "probability": 0.5194
+            },
+            {
+              "label": "증오/혐오",
+              "probability": 0.4558
+            },
+            {
+              "label": "우쭐댐/무시함",
+              "probability": 0.3363
+            },
+            {
+              "label": "불평/불만",
+              "probability": 0.329
+            }
+          ]
+        },
+        {
+          "line_no": 17,
+          "text": "오오 그러면, 그대들은 이후에라도",
+          "emotions": [
+            {
+              "label": "기대감",
+              "probability": 0.9626
+            },
+            {
+              "label": "감동/감탄",
+              "probability": 0.6813
+            },
+            {
+              "label": "신기함/관심",
+              "probability": 0.6768
+            },
+            {
+              "label": "아껴주는",
+              "probability": 0.6477
+            },
+            {
+              "label": "놀람",
+              "probability": 0.6444
+            },
+            {
+              "label": "불안/걱정",
+              "probability": 0.6362
+            },
+            {
+              "label": "환영/호의",
+              "probability": 0.6272
+            },
+            {
+              "label": "기쁨",
+              "probability": 0.5468
+            },
+            {
+              "label": "비장함",
+              "probability": 0.4942
+            },
+            {
+              "label": "존경",
+              "probability": 0.4127
+            },
+            {
+              "label": "안심/신뢰",
+              "probability": 0.3882
+            },
+            {
+              "label": "당황/난처",
+              "probability": 0.3626
+            }
+          ]
+        },
+        {
+          "line_no": 18,
+          "text": "하늘을 우러르라, 그저 혼자, 섧거나 괴롭거나.",
+          "emotions": [
+            {
+              "label": "슬픔",
+              "probability": 0.9495
+            },
+            {
+              "label": "서러움",
+              "probability": 0.9408
+            },
+            {
+              "label": "비장함",
+              "probability": 0.7948
+            },
+            {
+              "label": "안타까움/실망",
+              "probability": 0.7707
+            },
+            {
+              "label": "힘듦/지침",
+              "probability": 0.751
+            },
+            {
+              "label": "아껴주는",
+              "probability": 0.5831
+            },
+            {
+              "label": "불쌍함/연민",
+              "probability": 0.5655
+            },
+            {
+              "label": "불안/걱정",
+              "probability": 0.5642
+            },
+            {
+              "label": "깨달음",
+              "probability": 0.5593
+            },
+            {
+              "label": "기대감",
+              "probability": 0.4641
+            },
+            {
+              "label": "패배/자기혐오",
+              "probability": 0.4106
+            },
+            {
+              "label": "부담/안_내킴",
+              "probability": 0.3693
+            },
+            {
+              "label": "절망",
+              "probability": 0.3557
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "title": "훗길",
+      "author": "김소월",
+      "collection": "진달래꽃 - 바다가 변하야 뽕나무밭 된다고",
+      "poem_level_emotions": [
+        {
+          "label": "깨달음",
+          "probability": 0.9171
+        },
+        {
+          "label": "아껴주는",
+          "probability": 0.912
+        },
+        {
+          "label": "비장함",
+          "probability": 0.8267
+        },
+        {
+          "label": "기대감",
+          "probability": 0.7808
+        },
+        {
+          "label": "감동/감탄",
+          "probability": 0.7163
+        },
+        {
+          "label": "슬픔",
+          "probability": 0.6868
+        },
+        {
+          "label": "서러움",
+          "probability": 0.6348
+        },
+        {
+          "label": "환영/호의",
+          "probability": 0.5853
+        },
+        {
+          "label": "기쁨",
+          "probability": 0.583
+        },
+        {
+          "label": "안타까움/실망",
+          "probability": 0.5297
+        },
+        {
+          "label": "존경",
+          "probability": 0.5177
+        },
+        {
+          "label": "신기함/관심",
+          "probability": 0.4804
+        },
+        {
+          "label": "불쌍함/연민",
+          "probability": 0.4781
+        },
+        {
+          "label": "뿌듯함",
+          "probability": 0.4543
+        },
+        {
+          "label": "흐뭇함(귀여움/예쁨)",
+          "probability": 0.4481
+        },
+        {
+          "label": "안심/신뢰",
+          "probability": 0.431
+        },
+        {
+          "label": "행복",
+          "probability": 0.4303
+        },
+        {
+          "label": "불안/걱정",
+          "probability": 0.4096
+        },
+        {
+          "label": "고마움",
+          "probability": 0.3939
+        }
+      ],
+      "lines": [
+        {
+          "line_no": 1,
+          "text": "어버이님네들이 외우는 말이",
+          "emotions": [
+            {
+              "label": "없음",
+              "probability": 0.7932
+            },
+            {
+              "label": "신기함/관심",
+              "probability": 0.7701
+            },
+            {
+              "label": "불안/걱정",
+              "probability": 0.6237
+            },
+            {
+              "label": "기대감",
+              "probability": 0.4555
+            },
+            {
+              "label": "부담/안_내킴",
+              "probability": 0.3904
+            },
+            {
+              "label": "당황/난처",
+              "probability": 0.3451
+            },
+            {
+              "label": "아껴주는",
+              "probability": 0.3411
+            }
+          ]
+        },
+        {
+          "line_no": 2,
+          "text": "'딸과 아들을 기르기는",
+          "emotions": [
+            {
+              "label": "아껴주는",
+              "probability": 0.8664
+            },
+            {
+              "label": "기쁨",
+              "probability": 0.8079
+            },
+            {
+              "label": "흐뭇함(귀여움/예쁨)",
+              "probability": 0.7907
+            },
+            {
+              "label": "기대감",
+              "probability": 0.7529
+            },
+            {
+              "label": "행복",
+              "probability": 0.7218
+            },
+            {
+              "label": "편안/쾌적",
+              "probability": 0.6856
+            },
+            {
+              "label": "신기함/관심",
+              "probability": 0.5858
+            },
+            {
+              "label": "환영/호의",
+              "probability": 0.5302
+            },
+            {
+              "label": "없음",
+              "probability": 0.3776
+            },
+            {
+              "label": "즐거움/신남",
+              "probability": 0.3333
+            }
+          ]
+        },
+        {
+          "line_no": 3,
+          "text": "훗길을 보자는 심성(心誠)이로라.'.",
+          "emotions": [
+            {
+              "label": "깨달음",
+              "probability": 0.8993
+            },
+            {
+              "label": "기대감",
+              "probability": 0.8293
+            },
+            {
+              "label": "신기함/관심",
+              "probability": 0.7331
+            },
+            {
+              "label": "비장함",
+              "probability": 0.7136
+            },
+            {
+              "label": "감동/감탄",
+              "probability": 0.6961
+            },
+            {
+              "label": "아껴주는",
+              "probability": 0.4656
+            },
+            {
+              "label": "불안/걱정",
+              "probability": 0.4534
+            },
+            {
+              "label": "환영/호의",
+              "probability": 0.4116
+            },
+            {
+              "label": "안타까움/실망",
+              "probability": 0.3917
+            },
+            {
+              "label": "서러움",
+              "probability": 0.3716
+            },
+            {
+              "label": "기쁨",
+              "probability": 0.3526
+            },
+            {
+              "label": "안심/신뢰",
+              "probability": 0.331
+            },
+            {
+              "label": "슬픔",
+              "probability": 0.3056
+            },
+            {
+              "label": "존경",
+              "probability": 0.3022
+            }
+          ]
+        },
+        {
+          "line_no": 4,
+          "text": "그러하다, 분명(分明)히 그네들도",
+          "emotions": [
+            {
+              "label": "불안/걱정",
+              "probability": 0.8719
+            },
+            {
+              "label": "신기함/관심",
+              "probability": 0.7977
+            },
+            {
+              "label": "깨달음",
+              "probability": 0.7071
+            },
+            {
+              "label": "기대감",
+              "probability": 0.6887
+            },
+            {
+              "label": "부담/안_내킴",
+              "probability": 0.5324
+            },
+            {
+              "label": "안타까움/실망",
+              "probability": 0.5053
+            },
+            {
+              "label": "당황/난처",
+              "probability": 0.4333
+            },
+            {
+              "label": "놀람",
+              "probability": 0.416
+            },
+            {
+              "label": "의심/불신",
+              "probability": 0.3859
+            },
+            {
+              "label": "감동/감탄",
+              "probability": 0.3762
+            },
+            {
+              "label": "없음",
+              "probability": 0.3637
+            },
+            {
+              "label": "비장함",
+              "probability": 0.3593
+            },
+            {
+              "label": "힘듦/지침",
+              "probability": 0.3495
+            },
+            {
+              "label": "슬픔",
+              "probability": 0.3101
+            }
+          ]
+        },
+        {
+          "line_no": 5,
+          "text": "두 어버이 틈에서 생겼어라.",
+          "emotions": [
+            {
+              "label": "기대감",
+              "probability": 0.9243
+            },
+            {
+              "label": "감동/감탄",
+              "probability": 0.8473
+            },
+            {
+              "label": "아껴주는",
+              "probability": 0.8242
+            },
+            {
+              "label": "기쁨",
+              "probability": 0.7688
+            },
+            {
+              "label": "비장함",
+              "probability": 0.7361
+            },
+            {
+              "label": "신기함/관심",
+              "probability": 0.6996
+            },
+            {
+              "label": "깨달음",
+              "probability": 0.6986
+            },
+            {
+              "label": "환영/호의",
+              "probability": 0.671
+            },
+            {
+              "label": "뿌듯함",
+              "probability": 0.6104
+            },
+            {
+              "label": "안심/신뢰",
+              "probability": 0.537
+            },
+            {
+              "label": "행복",
+              "probability": 0.4853
+            },
+            {
+              "label": "흐뭇함(귀여움/예쁨)",
+              "probability": 0.4251
+            },
+            {
+              "label": "존경",
+              "probability": 0.4152
+            },
+            {
+              "label": "고마움",
+              "probability": 0.3639
+            }
+          ]
+        },
+        {
+          "line_no": 6,
+          "text": "그러나 그 무엇이냐, 우리 사람!",
+          "emotions": [
+            {
+              "label": "기대감",
+              "probability": 0.9156
+            },
+            {
+              "label": "비장함",
+              "probability": 0.8797
+            },
+            {
+              "label": "감동/감탄",
+              "probability": 0.8628
+            },
+            {
+              "label": "아껴주는",
+              "probability": 0.8376
+            },
+            {
+              "label": "존경",
+              "probability": 0.755
+            },
+            {
+              "label": "환영/호의",
+              "probability": 0.7513
+            },
+            {
+              "label": "안심/신뢰",
+              "probability": 0.6978
+            },
+            {
+              "label": "기쁨",
+              "probability": 0.6971
+            },
+            {
+              "label": "깨달음",
+              "probability": 0.5826
+            },
+            {
+              "label": "뿌듯함",
+              "probability": 0.5805
+            },
+            {
+              "label": "고마움",
+              "probability": 0.3735
+            },
+            {
+              "label": "신기함/관심",
+              "probability": 0.3367
+            },
+            {
+              "label": "행복",
+              "probability": 0.3273
+            }
+          ]
+        },
+        {
+          "line_no": 7,
+          "text": "손들어 가르치던 먼 훗날에",
+          "emotions": [
+            {
+              "label": "비장함",
+              "probability": 0.9434
+            },
+            {
+              "label": "기대감",
+              "probability": 0.8926
+            },
+            {
+              "label": "깨달음",
+              "probability": 0.7315
+            },
+            {
+              "label": "불안/걱정",
+              "probability": 0.5511
+            },
+            {
+              "label": "감동/감탄",
+              "probability": 0.3994
+            },
+            {
+              "label": "서러움",
+              "probability": 0.3886
+            },
+            {
+              "label": "존경",
+              "probability": 0.3752
+            },
+            {
+              "label": "슬픔",
+              "probability": 0.3619
+            },
+            {
+              "label": "환영/호의",
+              "probability": 0.3145
+            },
+            {
+              "label": "안타까움/실망",
+              "probability": 0.3072
+            }
+          ]
+        },
+        {
+          "line_no": 8,
+          "text": "그네들이 또다시 자라 커서",
+          "emotions": [
+            {
+              "label": "기대감",
+              "probability": 0.8641
+            },
+            {
+              "label": "기쁨",
+              "probability": 0.7631
+            },
+            {
+              "label": "아껴주는",
+              "probability": 0.7582
+            },
+            {
+              "label": "신기함/관심",
+              "probability": 0.6882
+            },
+            {
+              "label": "환영/호의",
+              "probability": 0.6264
+            },
+            {
+              "label": "행복",
+              "probability": 0.5626
+            },
+            {
+              "label": "편안/쾌적",
+              "probability": 0.5486
+            },
+            {
+              "label": "흐뭇함(귀여움/예쁨)",
+              "probability": 0.5215
+            },
+            {
+              "label": "안심/신뢰",
+              "probability": 0.4949
+            },
+            {
+              "label": "감동/감탄",
+              "probability": 0.4661
+            },
+            {
+              "label": "없음",
+              "probability": 0.3624
+            },
+            {
+              "label": "뿌듯함",
+              "probability": 0.3618
+            },
+            {
+              "label": "즐거움/신남",
+              "probability": 0.3376
+            }
+          ]
+        },
+        {
+          "line_no": 9,
+          "text": "한길같이 외우는 말이",
+          "emotions": [
+            {
+              "label": "신기함/관심",
+              "probability": 0.922
+            },
+            {
+              "label": "기대감",
+              "probability": 0.7599
+            },
+            {
+              "label": "불안/걱정",
+              "probability": 0.7544
+            },
+            {
+              "label": "놀람",
+              "probability": 0.6167
+            },
+            {
+              "label": "없음",
+              "probability": 0.6077
+            },
+            {
+              "label": "감동/감탄",
+              "probability": 0.4893
+            },
+            {
+              "label": "깨달음",
+              "probability": 0.414
+            },
+            {
+              "label": "당황/난처",
+              "probability": 0.3856
+            },
+            {
+              "label": "힘듦/지침",
+              "probability": 0.3502
+            },
+            {
+              "label": "비장함",
+              "probability": 0.3454
+            },
+            {
+              "label": "부담/안_내킴",
+              "probability": 0.3154
+            }
+          ]
+        },
+        {
+          "line_no": 10,
+          "text": "'훗길을 두고 가자는 심성(心誠)으로",
+          "emotions": [
+            {
+              "label": "기대감",
+              "probability": 0.9024
+            },
+            {
+              "label": "비장함",
+              "probability": 0.78
+            },
+            {
+              "label": "아껴주는",
+              "probability": 0.6337
+            },
+            {
+              "label": "깨달음",
+              "probability": 0.6132
+            },
+            {
+              "label": "불안/걱정",
+              "probability": 0.5518
+            },
+            {
+              "label": "신기함/관심",
+              "probability": 0.5251
+            },
+            {
+              "label": "환영/호의",
+              "probability": 0.5005
+            },
+            {
+              "label": "안심/신뢰",
+              "probability": 0.3934
+            },
+            {
+              "label": "안타까움/실망",
+              "probability": 0.3646
+            },
+            {
+              "label": "서러움",
+              "probability": 0.351
+            },
+            {
+              "label": "슬픔",
+              "probability": 0.3309
+            },
+            {
+              "label": "불쌍함/연민",
+              "probability": 0.3245
+            },
+            {
+              "label": "힘듦/지침",
+              "probability": 0.3207
+            },
+            {
+              "label": "감동/감탄",
+              "probability": 0.3199
+            },
+            {
+              "label": "없음",
+              "probability": 0.3098
+            }
+          ]
+        },
+        {
+          "line_no": 11,
+          "text": "아들딸을 늙도록 기르노라.'.",
+          "emotions": [
+            {
+              "label": "슬픔",
+              "probability": 0.9365
+            },
+            {
+              "label": "서러움",
+              "probability": 0.9279
+            },
+            {
+              "label": "안타까움/실망",
+              "probability": 0.8689
+            },
+            {
+              "label": "힘듦/지침",
+              "probability": 0.7265
+            },
+            {
+              "label": "불쌍함/연민",
+              "probability": 0.7071
+            },
+            {
+              "label": "아껴주는",
+              "probability": 0.5952
+            },
+            {
+              "label": "불안/걱정",
+              "probability": 0.5736
+            },
+            {
+              "label": "깨달음",
+              "probability": 0.5616
+            },
+            {
+              "label": "부담/안_내킴",
+              "probability": 0.4368
+            },
+            {
+              "label": "패배/자기혐오",
+              "probability": 0.413
+            },
+            {
+              "label": "비장함",
+              "probability": 0.3507
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "title": "부부",
+      "author": "김소월",
+      "collection": "진달래꽃 - 바다가 변하야 뽕나무밭 된다고",
+      "poem_level_emotions": [
+        {
+          "label": "비장함",
+          "probability": 0.9131
+        },
+        {
+          "label": "깨달음",
+          "probability": 0.8347
+        },
+        {
+          "label": "기대감",
+          "probability": 0.8311
+        },
+        {
+          "label": "슬픔",
+          "probability": 0.8109
+        },
+        {
+          "label": "안타까움/실망",
+          "probability": 0.7877
+        },
+        {
+          "label": "서러움",
+          "probability": 0.781
+        },
+        {
+          "label": "아껴주는",
+          "probability": 0.7749
+        },
+        {
+          "label": "불안/걱정",
+          "probability": 0.7015
+        },
+        {
+          "label": "감동/감탄",
+          "probability": 0.4971
+        },
+        {
+          "label": "존경",
+          "probability": 0.4867
+        },
+        {
+          "label": "환영/호의",
+          "probability": 0.433
+        },
+        {
+          "label": "불평/불만",
+          "probability": 0.407
+        },
+        {
+          "label": "불쌍함/연민",
+          "probability": 0.4055
+        },
+        {
+          "label": "의심/불신",
+          "probability": 0.3929
+        },
+        {
+          "label": "힘듦/지침",
+          "probability": 0.3906
+        },
+        {
+          "label": "부담/안_내킴",
+          "probability": 0.3766
+        },
+        {
+          "label": "안심/신뢰",
+          "probability": 0.354
+        }
+      ],
+      "lines": [
+        {
+          "line_no": 1,
+          "text": "오오 아내여, 나의 사랑!",
+          "emotions": [
+            {
+              "label": "아껴주는",
+              "probability": 0.9501
+            },
+            {
+              "label": "기대감",
+              "probability": 0.907
+            },
+            {
+              "label": "기쁨",
+              "probability": 0.8598
+            },
+            {
+              "label": "감동/감탄",
+              "probability": 0.8542
+            },
+            {
+              "label": "환영/호의",
+              "probability": 0.8057
+            },
+            {
+              "label": "존경",
+              "probability": 0.6665
+            },
+            {
+              "label": "행복",
+              "probability": 0.6045
+            },
+            {
+              "label": "고마움",
+              "probability": 0.533
+            },
+            {
+              "label": "비장함",
+              "probability": 0.5135
+            },
+            {
+              "label": "흐뭇함(귀여움/예쁨)",
+              "probability": 0.5028
+            },
+            {
+              "label": "안심/신뢰",
+              "probability": 0.4643
+            },
+            {
+              "label": "신기함/관심",
+              "probability": 0.3855
+            },
+            {
+              "label": "뿌듯함",
+              "probability": 0.3748
+            },
+            {
+              "label": "슬픔",
+              "probability": 0.327
+            }
+          ]
+        },
+        {
+          "line_no": 2,
+          "text": "하늘이 묶어준 짝이라고",
+          "emotions": [
+            {
+              "label": "아껴주는",
+              "probability": 0.8994
+            },
+            {
+              "label": "신기함/관심",
+              "probability": 0.7804
+            },
+            {
+              "label": "불쌍함/연민",
+              "probability": 0.7589
+            },
+            {
+              "label": "흐뭇함(귀여움/예쁨)",
+              "probability": 0.6469
+            },
+            {
+              "label": "슬픔",
+              "probability": 0.596
+            },
+            {
+              "label": "서러움",
+              "probability": 0.5714
+            },
+            {
+              "label": "불안/걱정",
+              "probability": 0.551
+            },
+            {
+              "label": "기대감",
+              "probability": 0.5323
+            },
+            {
+              "label": "감동/감탄",
+              "probability": 0.4264
+            },
+            {
+              "label": "환영/호의",
+              "probability": 0.4191
+            },
+            {
+              "label": "안타까움/실망",
+              "probability": 0.3753
+            },
+            {
+              "label": "놀람",
+              "probability": 0.3586
+            },
+            {
+              "label": "비장함",
+              "probability": 0.3286
+            },
+            {
+              "label": "기쁨",
+              "probability": 0.3256
+            },
+            {
+              "label": "존경",
+              "probability": 0.3155
+            }
+          ]
+        },
+        {
+          "line_no": 3,
+          "text": "믿고 살음이 마땅치 아니한가.",
+          "emotions": [
+            {
+              "label": "깨달음",
+              "probability": 0.9088
+            },
+            {
+              "label": "비장함",
+              "probability": 0.9069
+            },
+            {
+              "label": "기대감",
+              "probability": 0.7403
+            },
+            {
+              "label": "안타까움/실망",
+              "probability": 0.7106
+            },
+            {
+              "label": "서러움",
+              "probability": 0.6986
+            },
+            {
+              "label": "슬픔",
+              "probability": 0.6892
+            },
+            {
+              "label": "불안/걱정",
+              "probability": 0.6724
+            },
+            {
+              "label": "감동/감탄",
+              "probability": 0.5546
+            },
+            {
+              "label": "부담/안_내킴",
+              "probability": 0.448
+            },
+            {
+              "label": "힘듦/지침",
+              "probability": 0.4445
+            },
+            {
+              "label": "불평/불만",
+              "probability": 0.3382
+            }
+          ]
+        },
+        {
+          "line_no": 4,
+          "text": "아직 다시 그러랴, 안 그러랴?",
+          "emotions": [
+            {
+              "label": "불안/걱정",
+              "probability": 0.9129
+            },
+            {
+              "label": "기대감",
+              "probability": 0.8722
+            },
+            {
+              "label": "의심/불신",
+              "probability": 0.7969
+            },
+            {
+              "label": "불평/불만",
+              "probability": 0.6172
+            },
+            {
+              "label": "안타까움/실망",
+              "probability": 0.5396
+            },
+            {
+              "label": "당황/난처",
+              "probability": 0.5249
+            },
+            {
+              "label": "부담/안_내킴",
+              "probability": 0.4736
+            },
+            {
+              "label": "비장함",
+              "probability": 0.4078
+            },
+            {
+              "label": "서러움",
+              "probability": 0.3521
+            },
+            {
+              "label": "지긋지긋",
+              "probability": 0.34
+            },
+            {
+              "label": "슬픔",
+              "probability": 0.3368
+            },
+            {
+              "label": "힘듦/지침",
+              "probability": 0.3209
+            }
+          ]
+        },
+        {
+          "line_no": 5,
+          "text": "이상하고 별납은 사람의 맘,",
+          "emotions": [
+            {
+              "label": "불안/걱정",
+              "probability": 0.8766
+            },
+            {
+              "label": "부담/안_내킴",
+              "probability": 0.851
+            },
+            {
+              "label": "의심/불신",
+              "probability": 0.7235
+            },
+            {
+              "label": "신기함/관심",
+              "probability": 0.6188
+            },
+            {
+              "label": "안타까움/실망",
+              "probability": 0.5526
+            },
+            {
+              "label": "당황/난처",
+              "probability": 0.5246
+            },
+            {
+              "label": "깨달음",
+              "probability": 0.5197
+            },
+            {
+              "label": "힘듦/지침",
+              "probability": 0.5124
+            },
+            {
+              "label": "불평/불만",
+              "probability": 0.469
+            },
+            {
+              "label": "지긋지긋",
+              "probability": 0.4257
+            },
+            {
+              "label": "한심함",
+              "probability": 0.4171
+            },
+            {
+              "label": "없음",
+              "probability": 0.3607
+            }
+          ]
+        },
+        {
+          "line_no": 6,
+          "text": "저 몰라라, 참인지, 거짓인지?",
+          "emotions": [
+            {
+              "label": "의심/불신",
+              "probability": 0.9537
+            },
+            {
+              "label": "불안/걱정",
+              "probability": 0.9277
+            },
+            {
+              "label": "당황/난처",
+              "probability": 0.8704
+            },
+            {
+              "label": "안타까움/실망",
+              "probability": 0.7895
+            },
+            {
+              "label": "불평/불만",
+              "probability": 0.7609
+            },
+            {
+              "label": "부담/안_내킴",
+              "probability": 0.7063
+            },
+            {
+              "label": "한심함",
+              "probability": 0.5025
+            },
+            {
+              "label": "놀람",
+              "probability": 0.5012
+            },
+            {
+              "label": "어이없음",
+              "probability": 0.4599
+            },
+            {
+              "label": "지긋지긋",
+              "probability": 0.3935
+            },
+            {
+              "label": "짜증",
+              "probability": 0.369
+            },
+            {
+              "label": "경악",
+              "probability": 0.3438
+            },
+            {
+              "label": "신기함/관심",
+              "probability": 0.3297
+            },
+            {
+              "label": "힘듦/지침",
+              "probability": 0.3083
+            }
+          ]
+        },
+        {
+          "line_no": 7,
+          "text": "정분(情分)으로 얽은 딴 두 몸이라면.",
+          "emotions": [
+            {
+              "label": "신기함/관심",
+              "probability": 0.8946
+            },
+            {
+              "label": "불안/걱정",
+              "probability": 0.8429
+            },
+            {
+              "label": "기대감",
+              "probability": 0.8011
+            },
+            {
+              "label": "아껴주는",
+              "probability": 0.5756
+            },
+            {
+              "label": "깨달음",
+              "probability": 0.5288
+            },
+            {
+              "label": "놀람",
+              "probability": 0.5101
+            },
+            {
+              "label": "부담/안_내킴",
+              "probability": 0.4896
+            },
+            {
+              "label": "비장함",
+              "probability": 0.4788
+            },
+            {
+              "label": "안타까움/실망",
+              "probability": 0.4618
+            },
+            {
+              "label": "당황/난처",
+              "probability": 0.4374
+            },
+            {
+              "label": "불쌍함/연민",
+              "probability": 0.4267
+            },
+            {
+              "label": "감동/감탄",
+              "probability": 0.409
+            },
+            {
+              "label": "서러움",
+              "probability": 0.3908
+            },
+            {
+              "label": "슬픔",
+              "probability": 0.3835
+            },
+            {
+              "label": "의심/불신",
+              "probability": 0.378
+            },
+            {
+              "label": "없음",
+              "probability": 0.3628
+            },
+            {
+              "label": "힘듦/지침",
+              "probability": 0.3141
+            }
+          ]
+        },
+        {
+          "line_no": 8,
+          "text": "서로 어그점인들 또 있으랴.",
+          "emotions": [
+            {
+              "label": "기대감",
+              "probability": 0.8432
+            },
+            {
+              "label": "깨달음",
+              "probability": 0.7856
+            },
+            {
+              "label": "안타까움/실망",
+              "probability": 0.6851
+            },
+            {
+              "label": "비장함",
+              "probability": 0.5447
+            },
+            {
+              "label": "불안/걱정",
+              "probability": 0.5446
+            },
+            {
+              "label": "의심/불신",
+              "probability": 0.503
+            },
+            {
+              "label": "불평/불만",
+              "probability": 0.4627
+            },
+            {
+              "label": "안심/신뢰",
+              "probability": 0.4564
+            },
+            {
+              "label": "부담/안_내킴",
+              "probability": 0.4513
+            },
+            {
+              "label": "신기함/관심",
+              "probability": 0.4435
+            },
+            {
+              "label": "아껴주는",
+              "probability": 0.4085
+            },
+            {
+              "label": "환영/호의",
+              "probability": 0.3876
+            },
+            {
+              "label": "감동/감탄",
+              "probability": 0.3559
+            }
+          ]
+        },
+        {
+          "line_no": 9,
+          "text": "한평생(限平生)이라도 반백년(半百年)",
+          "emotions": [
+            {
+              "label": "서러움",
+              "probability": 0.806
+            },
+            {
+              "label": "슬픔",
+              "probability": 0.7973
+            },
+            {
+              "label": "아껴주는",
+              "probability": 0.7476
+            },
+            {
+              "label": "힘듦/지침",
+              "probability": 0.6114
+            },
+            {
+              "label": "비장함",
+              "probability": 0.5817
+            },
+            {
+              "label": "기대감",
+              "probability": 0.5675
+            },
+            {
+              "label": "안타까움/실망",
+              "probability": 0.567
+            },
+            {
+              "label": "깨달음",
+              "probability": 0.5422
+            },
+            {
+              "label": "불쌍함/연민",
+              "probability": 0.4681
+            },
+            {
+              "label": "감동/감탄",
+              "probability": 0.4464
+            },
+            {
+              "label": "행복",
+              "probability": 0.4307
+            },
+            {
+              "label": "기쁨",
+              "probability": 0.4244
+            },
+            {
+              "label": "환영/호의",
+              "probability": 0.3991
+            },
+            {
+              "label": "편안/쾌적",
+              "probability": 0.3766
+            },
+            {
+              "label": "불안/걱정",
+              "probability": 0.3382
+            },
+            {
+              "label": "없음",
+              "probability": 0.3317
+            },
+            {
+              "label": "뿌듯함",
+              "probability": 0.331
+            }
+          ]
+        },
+        {
+          "line_no": 10,
+          "text": "못 사는 이 인생(人生)에!",
+          "emotions": [
+            {
+              "label": "안타까움/실망",
+              "probability": 0.9158
+            },
+            {
+              "label": "서러움",
+              "probability": 0.8775
+            },
+            {
+              "label": "불평/불만",
+              "probability": 0.8279
+            },
+            {
+              "label": "슬픔",
+              "probability": 0.8234
+            },
+            {
+              "label": "패배/자기혐오",
+              "probability": 0.7945
+            },
+            {
+              "label": "절망",
+              "probability": 0.7675
+            },
+            {
+              "label": "불안/걱정",
+              "probability": 0.7436
+            },
+            {
+              "label": "지긋지긋",
+              "probability": 0.7343
+            },
+            {
+              "label": "비장함",
+              "probability": 0.7325
+            },
+            {
+              "label": "힘듦/지침",
+              "probability": 0.7156
+            },
+            {
+              "label": "한심함",
+              "probability": 0.7117
+            },
+            {
+              "label": "화남/분노",
+              "probability": 0.7112
+            },
+            {
+              "label": "증오/혐오",
+              "probability": 0.6593
+            },
+            {
+              "label": "부담/안_내킴",
+              "probability": 0.6558
+            },
+            {
+              "label": "짜증",
+              "probability": 0.5718
+            },
+            {
+              "label": "당황/난처",
+              "probability": 0.5476
+            },
+            {
+              "label": "의심/불신",
+              "probability": 0.5244
+            },
+            {
+              "label": "깨달음",
+              "probability": 0.5044
+            },
+            {
+              "label": "경악",
+              "probability": 0.4287
+            },
+            {
+              "label": "불쌍함/연민",
+              "probability": 0.3809
+            },
+            {
+              "label": "부끄러움",
+              "probability": 0.3218
+            },
+            {
+              "label": "어이없음",
+              "probability": 0.3101
+            }
+          ]
+        },
+        {
+          "line_no": 11,
+          "text": "연분(緣分)의 긴 실이 그 무엇이랴?",
+          "emotions": [
+            {
+              "label": "기대감",
+              "probability": 0.89
+            },
+            {
+              "label": "감동/감탄",
+              "probability": 0.8457
+            },
+            {
+              "label": "깨달음",
+              "probability": 0.7861
+            },
+            {
+              "label": "존경",
+              "probability": 0.7417
+            },
+            {
+              "label": "신기함/관심",
+              "probability": 0.7333
+            },
+            {
+              "label": "비장함",
+              "probability": 0.732
+            },
+            {
+              "label": "아껴주는",
+              "probability": 0.6888
+            },
+            {
+              "label": "환영/호의",
+              "probability": 0.6389
+            },
+            {
+              "label": "안심/신뢰",
+              "probability": 0.5987
+            },
+            {
+              "label": "불안/걱정",
+              "probability": 0.4344
+            },
+            {
+              "label": "놀람",
+              "probability": 0.39
+            },
+            {
+              "label": "기쁨",
+              "probability": 0.3774
+            },
+            {
+              "label": "뿌듯함",
+              "probability": 0.3654
+            },
+            {
+              "label": "고마움",
+              "probability": 0.3475
+            }
+          ]
+        },
+        {
+          "line_no": 12,
+          "text": "나는 말하려노라, 아무려나,",
+          "emotions": [
+            {
+              "label": "비장함",
+              "probability": 0.9016
+            },
+            {
+              "label": "기대감",
+              "probability": 0.886
+            },
+            {
+              "label": "깨달음",
+              "probability": 0.5043
+            },
+            {
+              "label": "안심/신뢰",
+              "probability": 0.4767
+            },
+            {
+              "label": "불안/걱정",
+              "probability": 0.4209
+            },
+            {
+              "label": "환영/호의",
+              "probability": 0.4028
+            }
+          ]
+        },
+        {
+          "line_no": 13,
+          "text": "죽어서도 한 곳에 묻히더라.",
+          "emotions": [
+            {
+              "label": "깨달음",
+              "probability": 0.8937
+            },
+            {
+              "label": "감동/감탄",
+              "probability": 0.8391
+            },
+            {
+              "label": "아껴주는",
+              "probability": 0.7409
+            },
+            {
+              "label": "슬픔",
+              "probability": 0.7154
+            },
+            {
+              "label": "서러움",
+              "probability": 0.6978
+            },
+            {
+              "label": "비장함",
+              "probability": 0.6288
+            },
+            {
+              "label": "존경",
+              "probability": 0.5104
+            },
+            {
+              "label": "기대감",
+              "probability": 0.4702
+            },
+            {
+              "label": "불쌍함/연민",
+              "probability": 0.4426
+            },
+            {
+              "label": "기쁨",
+              "probability": 0.4399
+            },
+            {
+              "label": "안타까움/실망",
+              "probability": 0.4335
+            },
+            {
+              "label": "안심/신뢰",
+              "probability": 0.4117
+            },
+            {
+              "label": "환영/호의",
+              "probability": 0.402
+            },
+            {
+              "label": "신기함/관심",
+              "probability": 0.3982
+            },
+            {
+              "label": "뿌듯함",
+              "probability": 0.376
+            },
+            {
+              "label": "고마움",
+              "probability": 0.3708
+            },
+            {
+              "label": "힘듦/지침",
+              "probability": 0.3377
+            },
+            {
+              "label": "행복",
+              "probability": 0.3285
+            },
+            {
+              "label": "불안/걱정",
+              "probability": 0.3156
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "title": "나의 집",
+      "author": "김소월",
+      "collection": "진달래꽃 - 바다가 변하야 뽕나무밭 된다고",
+      "poem_level_emotions": [
+        {
+          "label": "슬픔",
+          "probability": 0.9504
+        },
+        {
+          "label": "서러움",
+          "probability": 0.9155
+        },
+        {
+          "label": "불안/걱정",
+          "probability": 0.8186
+        },
+        {
+          "label": "안타까움/실망",
+          "probability": 0.763
+        },
+        {
+          "label": "힘듦/지침",
+          "probability": 0.7462
+        },
+        {
+          "label": "기대감",
+          "probability": 0.7019
+        },
+        {
+          "label": "아껴주는",
+          "probability": 0.6714
+        },
+        {
+          "label": "불쌍함/연민",
+          "probability": 0.625
+        },
+        {
+          "label": "깨달음",
+          "probability": 0.6045
+        },
+        {
+          "label": "신기함/관심",
+          "probability": 0.4785
+        },
+        {
+          "label": "비장함",
+          "probability": 0.4458
+        },
+        {
+          "label": "감동/감탄",
+          "probability": 0.4235
+        },
+        {
+          "label": "부담/안_내킴",
+          "probability": 0.3422
+        }
+      ],
+      "lines": [
+        {
+          "line_no": 1,
+          "text": "들가에 떨어져 나가앉은 멧기슭의",
+          "emotions": [
+            {
+              "label": "불안/걱정",
+              "probability": 0.9087
+            },
+            {
+              "label": "슬픔",
+              "probability": 0.8378
+            },
+            {
+              "label": "불쌍함/연민",
+              "probability": 0.7336
+            },
+            {
+              "label": "서러움",
+              "probability": 0.7171
+            },
+            {
+              "label": "힘듦/지침",
+              "probability": 0.695
+            },
+            {
+              "label": "신기함/관심",
+              "probability": 0.6852
+            },
+            {
+              "label": "안타까움/실망",
+              "probability": 0.6383
+            },
+            {
+              "label": "당황/난처",
+              "probability": 0.4984
+            },
+            {
+              "label": "부담/안_내킴",
+              "probability": 0.481
+            },
+            {
+              "label": "놀람",
+              "probability": 0.3632
+            },
+            {
+              "label": "아껴주는",
+              "probability": 0.3157
+            },
+            {
+              "label": "공포/무서움",
+              "probability": 0.3046
+            }
+          ]
+        },
+        {
+          "line_no": 2,
+          "text": "넓은 바다의 물가 뒤에,",
+          "emotions": [
+            {
+              "label": "기대감",
+              "probability": 0.9142
+            },
+            {
+              "label": "신기함/관심",
+              "probability": 0.8796
+            },
+            {
+              "label": "감동/감탄",
+              "probability": 0.7433
+            },
+            {
+              "label": "없음",
+              "probability": 0.6593
+            },
+            {
+              "label": "불안/걱정",
+              "probability": 0.548
+            },
+            {
+              "label": "환영/호의",
+              "probability": 0.3648
+            },
+            {
+              "label": "기쁨",
+              "probability": 0.3578
+            },
+            {
+              "label": "비장함",
+              "probability": 0.3334
+            },
+            {
+              "label": "깨달음",
+              "probability": 0.307
+            }
+          ]
+        },
+        {
+          "line_no": 3,
+          "text": "나는 지으리, 나의 집을,",
+          "emotions": [
+            {
+              "label": "비장함",
+              "probability": 0.9241
+            },
+            {
+              "label": "기대감",
+              "probability": 0.8551
+            },
+            {
+              "label": "기쁨",
+              "probability": 0.4047
+            },
+            {
+              "label": "없음",
+              "probability": 0.3327
+            },
+            {
+              "label": "환영/호의",
+              "probability": 0.3147
+            },
+            {
+              "label": "안심/신뢰",
+              "probability": 0.3129
+            }
+          ]
+        },
+        {
+          "line_no": 4,
+          "text": "다시금 큰길을 앞에다 두고.",
+          "emotions": [
+            {
+              "label": "기대감",
+              "probability": 0.9089
+            },
+            {
+              "label": "신기함/관심",
+              "probability": 0.7127
+            },
+            {
+              "label": "불안/걱정",
+              "probability": 0.6955
+            },
+            {
+              "label": "없음",
+              "probability": 0.6553
+            },
+            {
+              "label": "비장함",
+              "probability": 0.5373
+            },
+            {
+              "label": "힘듦/지침",
+              "probability": 0.3759
+            },
+            {
+              "label": "감동/감탄",
+              "probability": 0.3543
+            },
+            {
+              "label": "환영/호의",
+              "probability": 0.3463
+            },
+            {
+              "label": "기쁨",
+              "probability": 0.3337
+            }
+          ]
+        },
+        {
+          "line_no": 5,
+          "text": "길로 지나가는 그 사람들은",
+          "emotions": [
+            {
+              "label": "불안/걱정",
+              "probability": 0.928
+            },
+            {
+              "label": "신기함/관심",
+              "probability": 0.775
+            },
+            {
+              "label": "기대감",
+              "probability": 0.6305
+            },
+            {
+              "label": "슬픔",
+              "probability": 0.625
+            },
+            {
+              "label": "없음",
+              "probability": 0.5216
+            },
+            {
+              "label": "아껴주는",
+              "probability": 0.5101
+            },
+            {
+              "label": "불쌍함/연민",
+              "probability": 0.4546
+            },
+            {
+              "label": "힘듦/지침",
+              "probability": 0.4005
+            },
+            {
+              "label": "서러움",
+              "probability": 0.3983
+            },
+            {
+              "label": "당황/난처",
+              "probability": 0.3964
+            },
+            {
+              "label": "안타까움/실망",
+              "probability": 0.3555
+            },
+            {
+              "label": "부담/안_내킴",
+              "probability": 0.3089
+            },
+            {
+              "label": "놀람",
+              "probability": 0.3012
+            }
+          ]
+        },
+        {
+          "line_no": 6,
+          "text": "제각금 떨어져서 혼자 가는 길.",
+          "emotions": [
+            {
+              "label": "힘듦/지침",
+              "probability": 0.8546
+            },
+            {
+              "label": "슬픔",
+              "probability": 0.8051
+            },
+            {
+              "label": "서러움",
+              "probability": 0.8031
+            },
+            {
+              "label": "불안/걱정",
+              "probability": 0.6745
+            },
+            {
+              "label": "안타까움/실망",
+              "probability": 0.6161
+            },
+            {
+              "label": "부담/안_내킴",
+              "probability": 0.6082
+            },
+            {
+              "label": "없음",
+              "probability": 0.348
+            },
+            {
+              "label": "지긋지긋",
+              "probability": 0.3303
+            },
+            {
+              "label": "불쌍함/연민",
+              "probability": 0.3254
+            },
+            {
+              "label": "당황/난처",
+              "probability": 0.323
+            },
+            {
+              "label": "패배/자기혐오",
+              "probability": 0.322
+            }
+          ]
+        },
+        {
+          "line_no": 7,
+          "text": "하이얀 여울턱에 날은 저물 때.",
+          "emotions": [
+            {
+              "label": "신기함/관심",
+              "probability": 0.788
+            },
+            {
+              "label": "기대감",
+              "probability": 0.7736
+            },
+            {
+              "label": "감동/감탄",
+              "probability": 0.7074
+            },
+            {
+              "label": "슬픔",
+              "probability": 0.6388
+            },
+            {
+              "label": "불안/걱정",
+              "probability": 0.5523
+            },
+            {
+              "label": "서러움",
+              "probability": 0.5521
+            },
+            {
+              "label": "편안/쾌적",
+              "probability": 0.5465
+            },
+            {
+              "label": "깨달음",
+              "probability": 0.5165
+            },
+            {
+              "label": "흐뭇함(귀여움/예쁨)",
+              "probability": 0.4288
+            },
+            {
+              "label": "힘듦/지침",
+              "probability": 0.4258
+            },
+            {
+              "label": "없음",
+              "probability": 0.4175
+            },
+            {
+              "label": "아껴주는",
+              "probability": 0.3971
+            },
+            {
+              "label": "안타까움/실망",
+              "probability": 0.3957
+            },
+            {
+              "label": "기쁨",
+              "probability": 0.3719
+            },
+            {
+              "label": "환영/호의",
+              "probability": 0.3474
+            },
+            {
+              "label": "행복",
+              "probability": 0.3187
+            }
+          ]
+        },
+        {
+          "line_no": 8,
+          "text": "나는 門(문)간에 서서 기다리리",
+          "emotions": [
+            {
+              "label": "기대감",
+              "probability": 0.9129
+            },
+            {
+              "label": "비장함",
+              "probability": 0.7932
+            },
+            {
+              "label": "불안/걱정",
+              "probability": 0.3527
+            },
+            {
+              "label": "기쁨",
+              "probability": 0.3502
+            }
+          ]
+        },
+        {
+          "line_no": 9,
+          "text": "새벽새가 울며 지새는 그늘로",
+          "emotions": [
+            {
+              "label": "슬픔",
+              "probability": 0.8839
+            },
+            {
+              "label": "불쌍함/연민",
+              "probability": 0.7561
+            },
+            {
+              "label": "불안/걱정",
+              "probability": 0.7445
+            },
+            {
+              "label": "서러움",
+              "probability": 0.738
+            },
+            {
+              "label": "안타까움/실망",
+              "probability": 0.6626
+            },
+            {
+              "label": "아껴주는",
+              "probability": 0.5889
+            },
+            {
+              "label": "신기함/관심",
+              "probability": 0.5553
+            },
+            {
+              "label": "힘듦/지침",
+              "probability": 0.5212
+            }
+          ]
+        },
+        {
+          "line_no": 10,
+          "text": "세상은 희게, 또는 고요하게,",
+          "emotions": [
+            {
+              "label": "감동/감탄",
+              "probability": 0.9343
+            },
+            {
+              "label": "기대감",
+              "probability": 0.9023
+            },
+            {
+              "label": "신기함/관심",
+              "probability": 0.8892
+            },
+            {
+              "label": "기쁨",
+              "probability": 0.6889
+            },
+            {
+              "label": "환영/호의",
+              "probability": 0.4948
+            },
+            {
+              "label": "없음",
+              "probability": 0.4838
+            },
+            {
+              "label": "행복",
+              "probability": 0.4725
+            },
+            {
+              "label": "흐뭇함(귀여움/예쁨)",
+              "probability": 0.4666
+            },
+            {
+              "label": "놀람",
+              "probability": 0.4313
+            },
+            {
+              "label": "깨달음",
+              "probability": 0.4046
+            },
+            {
+              "label": "편안/쾌적",
+              "probability": 0.3939
+            },
+            {
+              "label": "비장함",
+              "probability": 0.3755
+            },
+            {
+              "label": "불안/걱정",
+              "probability": 0.3183
+            }
+          ]
+        },
+        {
+          "line_no": 11,
+          "text": "번쩍이며 오는 아침부터,",
+          "emotions": [
+            {
+              "label": "기대감",
+              "probability": 0.8823
+            },
+            {
+              "label": "기쁨",
+              "probability": 0.7163
+            },
+            {
+              "label": "신기함/관심",
+              "probability": 0.6244
+            },
+            {
+              "label": "없음",
+              "probability": 0.5877
+            },
+            {
+              "label": "감동/감탄",
+              "probability": 0.5467
+            },
+            {
+              "label": "즐거움/신남",
+              "probability": 0.5258
+            },
+            {
+              "label": "행복",
+              "probability": 0.4511
+            },
+            {
+              "label": "편안/쾌적",
+              "probability": 0.3799
+            },
+            {
+              "label": "환영/호의",
+              "probability": 0.3398
+            }
+          ]
+        },
+        {
+          "line_no": 12,
+          "text": "지나가는 길손을 눈여겨보며,",
+          "emotions": [
+            {
+              "label": "기대감",
+              "probability": 0.9419
+            },
+            {
+              "label": "신기함/관심",
+              "probability": 0.8211
+            },
+            {
+              "label": "불안/걱정",
+              "probability": 0.7862
+            },
+            {
+              "label": "아껴주는",
+              "probability": 0.3816
+            },
+            {
+              "label": "환영/호의",
+              "probability": 0.3471
+            },
+            {
+              "label": "비장함",
+              "probability": 0.3377
+            }
+          ]
+        },
+        {
+          "line_no": 13,
+          "text": "그대인가고, 그대인가고.",
+          "emotions": [
+            {
+              "label": "아껴주는",
+              "probability": 0.9284
+            },
+            {
+              "label": "기대감",
+              "probability": 0.8814
+            },
+            {
+              "label": "슬픔",
+              "probability": 0.8018
+            },
+            {
+              "label": "불안/걱정",
+              "probability": 0.6754
+            },
+            {
+              "label": "서러움",
+              "probability": 0.6719
+            },
+            {
+              "label": "안타까움/실망",
+              "probability": 0.5559
+            },
+            {
+              "label": "환영/호의",
+              "probability": 0.5189
+            },
+            {
+              "label": "신기함/관심",
+              "probability": 0.51
+            },
+            {
+              "label": "불쌍함/연민",
+              "probability": 0.4382
+            },
+            {
+              "label": "기쁨",
+              "probability": 0.4142
+            },
+            {
+              "label": "흐뭇함(귀여움/예쁨)",
+              "probability": 0.4088
+            },
+            {
+              "label": "비장함",
+              "probability": 0.3707
+            },
+            {
+              "label": "힘듦/지침",
+              "probability": 0.314
+            },
+            {
+              "label": "없음",
+              "probability": 0.3024
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "title": "새벽",
+      "author": "김소월",
+      "collection": "진달래꽃 - 바다가 변하야 뽕나무밭 된다고",
+      "poem_level_emotions": [
+        {
+          "label": "슬픔",
+          "probability": 0.9581
+        },
+        {
+          "label": "서러움",
+          "probability": 0.9239
+        },
+        {
+          "label": "안타까움/실망",
+          "probability": 0.8532
+        },
+        {
+          "label": "불안/걱정",
+          "probability": 0.7778
+        },
+        {
+          "label": "깨달음",
+          "probability": 0.7088
+        },
+        {
+          "label": "힘듦/지침",
+          "probability": 0.6766
+        },
+        {
+          "label": "기대감",
+          "probability": 0.6303
+        },
+        {
+          "label": "아껴주는",
+          "probability": 0.6162
+        },
+        {
+          "label": "불쌍함/연민",
+          "probability": 0.578
+        },
+        {
+          "label": "감동/감탄",
+          "probability": 0.5076
+        },
+        {
+          "label": "신기함/관심",
+          "probability": 0.4412
+        },
+        {
+          "label": "비장함",
+          "probability": 0.4126
+        },
+        {
+          "label": "부담/안_내킴",
+          "probability": 0.3266
+        },
+        {
+          "label": "절망",
+          "probability": 0.3009
+        }
+      ],
+      "lines": [
+        {
+          "line_no": 1,
+          "text": "낙엽(落葉)에 발이 숨는 못물가에",
+          "emotions": [
+            {
+              "label": "불안/걱정",
+              "probability": 0.874
+            },
+            {
+              "label": "신기함/관심",
+              "probability": 0.7854
+            },
+            {
+              "label": "슬픔",
+              "probability": 0.625
+            },
+            {
+              "label": "없음",
+              "probability": 0.5662
+            },
+            {
+              "label": "힘듦/지침",
+              "probability": 0.5625
+            },
+            {
+              "label": "당황/난처",
+              "probability": 0.5062
+            },
+            {
+              "label": "서러움",
+              "probability": 0.4594
+            },
+            {
+              "label": "안타까움/실망",
+              "probability": 0.4437
+            },
+            {
+              "label": "기대감",
+              "probability": 0.4272
+            },
+            {
+              "label": "부담/안_내킴",
+              "probability": 0.3656
+            },
+            {
+              "label": "놀람",
+              "probability": 0.3324
+            },
+            {
+              "label": "불쌍함/연민",
+              "probability": 0.3161
+            }
+          ]
+        },
+        {
+          "line_no": 2,
+          "text": "웃둑웃둑한 나무그림자",
+          "emotions": [
+            {
+              "label": "신기함/관심",
+              "probability": 0.8929
+            },
+            {
+              "label": "불안/걱정",
+              "probability": 0.773
+            },
+            {
+              "label": "슬픔",
+              "probability": 0.5823
+            },
+            {
+              "label": "감동/감탄",
+              "probability": 0.501
+            },
+            {
+              "label": "없음",
+              "probability": 0.4688
+            },
+            {
+              "label": "놀람",
+              "probability": 0.4657
+            },
+            {
+              "label": "기대감",
+              "probability": 0.4556
+            },
+            {
+              "label": "불쌍함/연민",
+              "probability": 0.3677
+            },
+            {
+              "label": "서러움",
+              "probability": 0.3194
+            },
+            {
+              "label": "힘듦/지침",
+              "probability": 0.3187
+            },
+            {
+              "label": "흐뭇함(귀여움/예쁨)",
+              "probability": 0.3179
+            },
+            {
+              "label": "아껴주는",
+              "probability": 0.3028
+            }
+          ]
+        },
+        {
+          "line_no": 3,
+          "text": "물빛조차 어섬프러히 떠오르는데,",
+          "emotions": [
+            {
+              "label": "신기함/관심",
+              "probability": 0.9693
+            },
+            {
+              "label": "감동/감탄",
+              "probability": 0.8387
+            },
+            {
+              "label": "기대감",
+              "probability": 0.7918
+            },
+            {
+              "label": "놀람",
+              "probability": 0.582
+            },
+            {
+              "label": "흐뭇함(귀여움/예쁨)",
+              "probability": 0.5765
+            },
+            {
+              "label": "불안/걱정",
+              "probability": 0.5299
+            },
+            {
+              "label": "기쁨",
+              "probability": 0.4592
+            },
+            {
+              "label": "깨달음",
+              "probability": 0.4504
+            },
+            {
+              "label": "없음",
+              "probability": 0.4489
+            },
+            {
+              "label": "편안/쾌적",
+              "probability": 0.3885
+            },
+            {
+              "label": "환영/호의",
+              "probability": 0.3161
+            },
+            {
+              "label": "행복",
+              "probability": 0.3033
+            }
+          ]
+        },
+        {
+          "line_no": 4,
+          "text": "나 혼자 섰노라 아직도 아직도,",
+          "emotions": [
+            {
+              "label": "힘듦/지침",
+              "probability": 0.8721
+            },
+            {
+              "label": "서러움",
+              "probability": 0.7845
+            },
+            {
+              "label": "슬픔",
+              "probability": 0.7103
+            },
+            {
+              "label": "비장함",
+              "probability": 0.6316
+            },
+            {
+              "label": "불안/걱정",
+              "probability": 0.5597
+            },
+            {
+              "label": "부담/안_내킴",
+              "probability": 0.5001
+            },
+            {
+              "label": "패배/자기혐오",
+              "probability": 0.4655
+            },
+            {
+              "label": "안타까움/실망",
+              "probability": 0.4533
+            },
+            {
+              "label": "깨달음",
+              "probability": 0.4526
+            },
+            {
+              "label": "지긋지긋",
+              "probability": 0.452
+            },
+            {
+              "label": "절망",
+              "probability": 0.346
+            }
+          ]
+        },
+        {
+          "line_no": 5,
+          "text": "동(東)녘 하늘은 어둡은가.",
+          "emotions": [
+            {
+              "label": "불안/걱정",
+              "probability": 0.9101
+            },
+            {
+              "label": "신기함/관심",
+              "probability": 0.7992
+            },
+            {
+              "label": "슬픔",
+              "probability": 0.6263
+            },
+            {
+              "label": "기대감",
+              "probability": 0.6119
+            },
+            {
+              "label": "안타까움/실망",
+              "probability": 0.5587
+            },
+            {
+              "label": "당황/난처",
+              "probability": 0.53
+            },
+            {
+              "label": "서러움",
+              "probability": 0.471
+            },
+            {
+              "label": "힘듦/지침",
+              "probability": 0.4393
+            },
+            {
+              "label": "놀람",
+              "probability": 0.4209
+            },
+            {
+              "label": "부담/안_내킴",
+              "probability": 0.4127
+            },
+            {
+              "label": "깨달음",
+              "probability": 0.4025
+            },
+            {
+              "label": "감동/감탄",
+              "probability": 0.3361
+            }
+          ]
+        },
+        {
+          "line_no": 6,
+          "text": "천인(天人)에도 사랑눈물, 구름되어,",
+          "emotions": [
+            {
+              "label": "슬픔",
+              "probability": 0.8921
+            },
+            {
+              "label": "감동/감탄",
+              "probability": 0.8864
+            },
+            {
+              "label": "서러움",
+              "probability": 0.8231
+            },
+            {
+              "label": "기대감",
+              "probability": 0.7603
+            },
+            {
+              "label": "아껴주는",
+              "probability": 0.7315
+            },
+            {
+              "label": "신기함/관심",
+              "probability": 0.679
+            },
+            {
+              "label": "안타까움/실망",
+              "probability": 0.6482
+            },
+            {
+              "label": "기쁨",
+              "probability": 0.563
+            },
+            {
+              "label": "흐뭇함(귀여움/예쁨)",
+              "probability": 0.5394
+            },
+            {
+              "label": "불안/걱정",
+              "probability": 0.4872
+            },
+            {
+              "label": "불쌍함/연민",
+              "probability": 0.4622
+            },
+            {
+              "label": "깨달음",
+              "probability": 0.4326
+            },
+            {
+              "label": "행복",
+              "probability": 0.3943
+            },
+            {
+              "label": "환영/호의",
+              "probability": 0.3839
+            },
+            {
+              "label": "비장함",
+              "probability": 0.3453
+            },
+            {
+              "label": "힘듦/지침",
+              "probability": 0.3302
+            }
+          ]
+        },
+        {
+          "line_no": 7,
+          "text": "외롭은 꿈의 베개 흐렸는가",
+          "emotions": [
+            {
+              "label": "슬픔",
+              "probability": 0.9475
+            },
+            {
+              "label": "서러움",
+              "probability": 0.8691
+            },
+            {
+              "label": "안타까움/실망",
+              "probability": 0.8608
+            },
+            {
+              "label": "불안/걱정",
+              "probability": 0.8503
+            },
+            {
+              "label": "불쌍함/연민",
+              "probability": 0.6238
+            },
+            {
+              "label": "기대감",
+              "probability": 0.5626
+            },
+            {
+              "label": "힘듦/지침",
+              "probability": 0.5295
+            },
+            {
+              "label": "신기함/관심",
+              "probability": 0.5121
+            },
+            {
+              "label": "아껴주는",
+              "probability": 0.4931
+            },
+            {
+              "label": "깨달음",
+              "probability": 0.4318
+            },
+            {
+              "label": "당황/난처",
+              "probability": 0.3946
+            },
+            {
+              "label": "부담/안_내킴",
+              "probability": 0.3312
+            }
+          ]
+        },
+        {
+          "line_no": 8,
+          "text": "나의 님이어, 그러나 그러나",
+          "emotions": [
+            {
+              "label": "슬픔",
+              "probability": 0.8995
+            },
+            {
+              "label": "안타까움/실망",
+              "probability": 0.8679
+            },
+            {
+              "label": "서러움",
+              "probability": 0.798
+            },
+            {
+              "label": "기대감",
+              "probability": 0.75
+            },
+            {
+              "label": "아껴주는",
+              "probability": 0.7273
+            },
+            {
+              "label": "불안/걱정",
+              "probability": 0.6751
+            },
+            {
+              "label": "비장함",
+              "probability": 0.5596
+            },
+            {
+              "label": "당황/난처",
+              "probability": 0.38
+            },
+            {
+              "label": "환영/호의",
+              "probability": 0.326
+            },
+            {
+              "label": "힘듦/지침",
+              "probability": 0.3223
+            },
+            {
+              "label": "불쌍함/연민",
+              "probability": 0.3218
+            },
+            {
+              "label": "존경",
+              "probability": 0.3062
+            }
+          ]
+        },
+        {
+          "line_no": 9,
+          "text": "고히도 붉으스레 물질러와라",
+          "emotions": [
+            {
+              "label": "기대감",
+              "probability": 0.9246
+            },
+            {
+              "label": "신기함/관심",
+              "probability": 0.8902
+            },
+            {
+              "label": "감동/감탄",
+              "probability": 0.8549
+            },
+            {
+              "label": "기쁨",
+              "probability": 0.8411
+            },
+            {
+              "label": "흐뭇함(귀여움/예쁨)",
+              "probability": 0.7944
+            },
+            {
+              "label": "행복",
+              "probability": 0.6104
+            },
+            {
+              "label": "아껴주는",
+              "probability": 0.6064
+            },
+            {
+              "label": "환영/호의",
+              "probability": 0.5718
+            },
+            {
+              "label": "즐거움/신남",
+              "probability": 0.5118
+            },
+            {
+              "label": "편안/쾌적",
+              "probability": 0.3986
+            },
+            {
+              "label": "놀람",
+              "probability": 0.3963
+            }
+          ]
+        },
+        {
+          "line_no": 10,
+          "text": "하늘 밟고 저녁에 섰는 구름.",
+          "emotions": [
+            {
+              "label": "신기함/관심",
+              "probability": 0.8229
+            },
+            {
+              "label": "기대감",
+              "probability": 0.6456
+            },
+            {
+              "label": "불안/걱정",
+              "probability": 0.6378
+            },
+            {
+              "label": "감동/감탄",
+              "probability": 0.6245
+            },
+            {
+              "label": "없음",
+              "probability": 0.5899
+            },
+            {
+              "label": "편안/쾌적",
+              "probability": 0.5765
+            },
+            {
+              "label": "힘듦/지침",
+              "probability": 0.5681
+            },
+            {
+              "label": "슬픔",
+              "probability": 0.5277
+            },
+            {
+              "label": "서러움",
+              "probability": 0.4521
+            },
+            {
+              "label": "깨달음",
+              "probability": 0.423
+            },
+            {
+              "label": "기쁨",
+              "probability": 0.4015
+            },
+            {
+              "label": "행복",
+              "probability": 0.3615
+            },
+            {
+              "label": "놀람",
+              "probability": 0.311
+            },
+            {
+              "label": "흐뭇함(귀여움/예쁨)",
+              "probability": 0.3049
+            }
+          ]
+        },
+        {
+          "line_no": 11,
+          "text": "반(半)달은 중천(中天)에 지새일 때.",
+          "emotions": [
+            {
+              "label": "기대감",
+              "probability": 0.8638
+            },
+            {
+              "label": "신기함/관심",
+              "probability": 0.8324
+            },
+            {
+              "label": "감동/감탄",
+              "probability": 0.8031
+            },
+            {
+              "label": "깨달음",
+              "probability": 0.6734
+            },
+            {
+              "label": "없음",
+              "probability": 0.6123
+            },
+            {
+              "label": "편안/쾌적",
+              "probability": 0.5331
+            },
+            {
+              "label": "기쁨",
+              "probability": 0.4491
+            },
+            {
+              "label": "비장함",
+              "probability": 0.4122
+            },
+            {
+              "label": "환영/호의",
+              "probability": 0.4101
+            },
+            {
+              "label": "불안/걱정",
+              "probability": 0.3989
+            },
+            {
+              "label": "행복",
+              "probability": 0.3493
+            },
+            {
+              "label": "흐뭇함(귀여움/예쁨)",
+              "probability": 0.3012
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "title": "구름",
+      "author": "김소월",
+      "collection": "진달래꽃 - 바다가 변하야 뽕나무밭 된다고",
+      "poem_level_emotions": [
+        {
+          "label": "슬픔",
+          "probability": 0.9655
+        },
+        {
+          "label": "서러움",
+          "probability": 0.9419
+        },
+        {
+          "label": "안타까움/실망",
+          "probability": 0.8626
+        },
+        {
+          "label": "불안/걱정",
+          "probability": 0.8426
+        },
+        {
+          "label": "아껴주는",
+          "probability": 0.7787
+        },
+        {
+          "label": "힘듦/지침",
+          "probability": 0.7239
+        },
+        {
+          "label": "불쌍함/연민",
+          "probability": 0.7044
+        },
+        {
+          "label": "기대감",
+          "probability": 0.6788
+        },
+        {
+          "label": "비장함",
+          "probability": 0.5425
+        },
+        {
+          "label": "깨달음",
+          "probability": 0.5335
+        },
+        {
+          "label": "신기함/관심",
+          "probability": 0.3633
+        },
+        {
+          "label": "감동/감탄",
+          "probability": 0.3528
+        },
+        {
+          "label": "부담/안_내킴",
+          "probability": 0.3465
+        },
+        {
+          "label": "절망",
+          "probability": 0.3348
+        },
+        {
+          "label": "당황/난처",
+          "probability": 0.3289
+        }
+      ],
+      "lines": [
+        {
+          "line_no": 1,
+          "text": "저기 저 구름을 잡아타면",
+          "emotions": [
+            {
+              "label": "기대감",
+              "probability": 0.9557
+            },
+            {
+              "label": "신기함/관심",
+              "probability": 0.9174
+            },
+            {
+              "label": "불안/걱정",
+              "probability": 0.5978
+            },
+            {
+              "label": "감동/감탄",
+              "probability": 0.5815
+            },
+            {
+              "label": "없음",
+              "probability": 0.407
+            },
+            {
+              "label": "놀람",
+              "probability": 0.3762
+            },
+            {
+              "label": "기쁨",
+              "probability": 0.3692
+            },
+            {
+              "label": "환영/호의",
+              "probability": 0.3446
+            }
+          ]
+        },
+        {
+          "line_no": 2,
+          "text": "붉게도 피로 물든 저 구름을,",
+          "emotions": [
+            {
+              "label": "불안/걱정",
+              "probability": 0.903
+            },
+            {
+              "label": "신기함/관심",
+              "probability": 0.7872
+            },
+            {
+              "label": "놀람",
+              "probability": 0.7704
+            },
+            {
+              "label": "슬픔",
+              "probability": 0.7318
+            },
+            {
+              "label": "당황/난처",
+              "probability": 0.6211
+            },
+            {
+              "label": "서러움",
+              "probability": 0.5861
+            },
+            {
+              "label": "공포/무서움",
+              "probability": 0.5729
+            },
+            {
+              "label": "힘듦/지침",
+              "probability": 0.5226
+            },
+            {
+              "label": "불쌍함/연민",
+              "probability": 0.4987
+            },
+            {
+              "label": "안타까움/실망",
+              "probability": 0.4982
+            },
+            {
+              "label": "감동/감탄",
+              "probability": 0.492
+            },
+            {
+              "label": "기대감",
+              "probability": 0.4162
+            },
+            {
+              "label": "부담/안_내킴",
+              "probability": 0.3813
+            },
+            {
+              "label": "경악",
+              "probability": 0.3616
+            },
+            {
+              "label": "절망",
+              "probability": 0.3453
+            }
+          ]
+        },
+        {
+          "line_no": 3,
+          "text": "밤이면 새캄한 저 구름을.",
+          "emotions": [
+            {
+              "label": "불안/걱정",
+              "probability": 0.8893
+            },
+            {
+              "label": "신기함/관심",
+              "probability": 0.7994
+            },
+            {
+              "label": "놀람",
+              "probability": 0.6873
+            },
+            {
+              "label": "힘듦/지침",
+              "probability": 0.5699
+            },
+            {
+              "label": "감동/감탄",
+              "probability": 0.5664
+            },
+            {
+              "label": "슬픔",
+              "probability": 0.5639
+            },
+            {
+              "label": "공포/무서움",
+              "probability": 0.5424
+            },
+            {
+              "label": "당황/난처",
+              "probability": 0.508
+            },
+            {
+              "label": "기대감",
+              "probability": 0.4869
+            },
+            {
+              "label": "서러움",
+              "probability": 0.4342
+            },
+            {
+              "label": "부담/안_내킴",
+              "probability": 0.4067
+            },
+            {
+              "label": "깨달음",
+              "probability": 0.3908
+            },
+            {
+              "label": "안타까움/실망",
+              "probability": 0.3094
+            }
+          ]
+        },
+        {
+          "line_no": 4,
+          "text": "잡아타고 내 몸은 저 멀리로",
+          "emotions": [
+            {
+              "label": "기대감",
+              "probability": 0.8905
+            },
+            {
+              "label": "불안/걱정",
+              "probability": 0.6317
+            },
+            {
+              "label": "없음",
+              "probability": 0.587
+            },
+            {
+              "label": "비장함",
+              "probability": 0.5639
+            },
+            {
+              "label": "신기함/관심",
+              "probability": 0.5537
+            },
+            {
+              "label": "힘듦/지침",
+              "probability": 0.4938
+            },
+            {
+              "label": "편안/쾌적",
+              "probability": 0.4639
+            },
+            {
+              "label": "기쁨",
+              "probability": 0.4478
+            },
+            {
+              "label": "슬픔",
+              "probability": 0.3687
+            },
+            {
+              "label": "환영/호의",
+              "probability": 0.3642
+            },
+            {
+              "label": "서러움",
+              "probability": 0.3521
+            },
+            {
+              "label": "아껴주는",
+              "probability": 0.3372
+            },
+            {
+              "label": "행복",
+              "probability": 0.3279
+            }
+          ]
+        },
+        {
+          "line_no": 5,
+          "text": "구만리(九萬里) 긴 하늘을 날아 건너",
+          "emotions": [
+            {
+              "label": "기대감",
+              "probability": 0.8932
+            },
+            {
+              "label": "감동/감탄",
+              "probability": 0.8299
+            },
+            {
+              "label": "신기함/관심",
+              "probability": 0.8091
+            },
+            {
+              "label": "불안/걱정",
+              "probability": 0.6024
+            },
+            {
+              "label": "비장함",
+              "probability": 0.5335
+            },
+            {
+              "label": "없음",
+              "probability": 0.5028
+            },
+            {
+              "label": "슬픔",
+              "probability": 0.4888
+            },
+            {
+              "label": "깨달음",
+              "probability": 0.4887
+            },
+            {
+              "label": "힘듦/지침",
+              "probability": 0.457
+            },
+            {
+              "label": "서러움",
+              "probability": 0.4416
+            },
+            {
+              "label": "놀람",
+              "probability": 0.3754
+            },
+            {
+              "label": "기쁨",
+              "probability": 0.3728
+            },
+            {
+              "label": "안타까움/실망",
+              "probability": 0.3227
+            },
+            {
+              "label": "환영/호의",
+              "probability": 0.3162
+            }
+          ]
+        },
+        {
+          "line_no": 6,
+          "text": "그대 잠든 품속에 안기렸더니,",
+          "emotions": [
+            {
+              "label": "슬픔",
+              "probability": 0.8978
+            },
+            {
+              "label": "아껴주는",
+              "probability": 0.8828
+            },
+            {
+              "label": "안타까움/실망",
+              "probability": 0.8564
+            },
+            {
+              "label": "서러움",
+              "probability": 0.8363
+            },
+            {
+              "label": "불안/걱정",
+              "probability": 0.7551
+            },
+            {
+              "label": "불쌍함/연민",
+              "probability": 0.6537
+            },
+            {
+              "label": "기대감",
+              "probability": 0.5311
+            },
+            {
+              "label": "당황/난처",
+              "probability": 0.4866
+            },
+            {
+              "label": "힘듦/지침",
+              "probability": 0.4494
+            }
+          ]
+        },
+        {
+          "line_no": 7,
+          "text": "애스러라, 그리는 못한대서,",
+          "emotions": [
+            {
+              "label": "안타까움/실망",
+              "probability": 0.9475
+            },
+            {
+              "label": "슬픔",
+              "probability": 0.9013
+            },
+            {
+              "label": "불안/걱정",
+              "probability": 0.8997
+            },
+            {
+              "label": "서러움",
+              "probability": 0.8338
+            },
+            {
+              "label": "불쌍함/연민",
+              "probability": 0.6614
+            },
+            {
+              "label": "아껴주는",
+              "probability": 0.651
+            },
+            {
+              "label": "당황/난처",
+              "probability": 0.6452
+            },
+            {
+              "label": "부담/안_내킴",
+              "probability": 0.6243
+            },
+            {
+              "label": "힘듦/지침",
+              "probability": 0.5498
+            },
+            {
+              "label": "기대감",
+              "probability": 0.4647
+            },
+            {
+              "label": "불평/불만",
+              "probability": 0.3914
+            }
+          ]
+        },
+        {
+          "line_no": 8,
+          "text": "그대여, 들으라 비가 되어",
+          "emotions": [
+            {
+              "label": "비장함",
+              "probability": 0.8686
+            },
+            {
+              "label": "기대감",
+              "probability": 0.8645
+            },
+            {
+              "label": "아껴주는",
+              "probability": 0.7846
+            },
+            {
+              "label": "슬픔",
+              "probability": 0.738
+            },
+            {
+              "label": "서러움",
+              "probability": 0.6552
+            },
+            {
+              "label": "감동/감탄",
+              "probability": 0.6055
+            },
+            {
+              "label": "안타까움/실망",
+              "probability": 0.5349
+            },
+            {
+              "label": "존경",
+              "probability": 0.4846
+            },
+            {
+              "label": "환영/호의",
+              "probability": 0.4755
+            },
+            {
+              "label": "불안/걱정",
+              "probability": 0.4441
+            },
+            {
+              "label": "깨달음",
+              "probability": 0.4399
+            }
+          ]
+        },
+        {
+          "line_no": 9,
+          "text": "저 구름이 그대한테로 나리거든,",
+          "emotions": [
+            {
+              "label": "기대감",
+              "probability": 0.9421
+            },
+            {
+              "label": "아껴주는",
+              "probability": 0.939
+            },
+            {
+              "label": "기쁨",
+              "probability": 0.7409
+            },
+            {
+              "label": "환영/호의",
+              "probability": 0.706
+            },
+            {
+              "label": "신기함/관심",
+              "probability": 0.6458
+            },
+            {
+              "label": "흐뭇함(귀여움/예쁨)",
+              "probability": 0.6205
+            },
+            {
+              "label": "감동/감탄",
+              "probability": 0.6017
+            },
+            {
+              "label": "불안/걱정",
+              "probability": 0.5014
+            },
+            {
+              "label": "행복",
+              "probability": 0.4858
+            },
+            {
+              "label": "안심/신뢰",
+              "probability": 0.4449
+            },
+            {
+              "label": "슬픔",
+              "probability": 0.3983
+            },
+            {
+              "label": "편안/쾌적",
+              "probability": 0.3935
+            },
+            {
+              "label": "서러움",
+              "probability": 0.3372
+            },
+            {
+              "label": "고마움",
+              "probability": 0.321
+            }
+          ]
+        },
+        {
+          "line_no": 10,
+          "text": "생각하라, 밤저녁, 내 눈물을.",
+          "emotions": [
+            {
+              "label": "슬픔",
+              "probability": 0.9416
+            },
+            {
+              "label": "서러움",
+              "probability": 0.9255
+            },
+            {
+              "label": "힘듦/지침",
+              "probability": 0.8516
+            },
+            {
+              "label": "안타까움/실망",
+              "probability": 0.8314
+            },
+            {
+              "label": "불안/걱정",
+              "probability": 0.7839
+            },
+            {
+              "label": "절망",
+              "probability": 0.7053
+            },
+            {
+              "label": "비장함",
+              "probability": 0.675
+            },
+            {
+              "label": "패배/자기혐오",
+              "probability": 0.6405
+            },
+            {
+              "label": "부담/안_내킴",
+              "probability": 0.5862
+            },
+            {
+              "label": "불평/불만",
+              "probability": 0.5344
+            },
+            {
+              "label": "지긋지긋",
+              "probability": 0.5125
+            },
+            {
+              "label": "당황/난처",
+              "probability": 0.4262
+            },
+            {
+              "label": "불쌍함/연민",
+              "probability": 0.3229
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
