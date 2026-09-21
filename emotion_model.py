@@ -4,8 +4,8 @@ emotion_model.py
 KPoEM (Korean Poetry Emotion Mapping) 모델 래퍼.
 
 한국학중앙연구원 디지털인문학연구소(AKS-DHLAB)가 공개한 감정 분류 모델을 사용.
-KcELECTRA-base를 KOTE 데이터셋으로 1차 파인튜닝한 뒤, 근현대시 감정
-라벨링 데이터셋인 KPoEM으로 2차(도메인 특화) 파인튜닝한 모델이다.
+이 모델은 KcELECTRA-base를 KOTE 데이터셋으로 1차 파인튜닝한 뒤, 
+근현대시 감정 라벨링 데이터셋인 KPoEM으로 2차(도메인 특화) 파인튜닝한 모델이다.
 
 모델: https://huggingface.co/AKS-DHLAB/KPoEM (MIT License)
 논문: LIM, I., Ji, H., & Kim, B. (2026). KPoEM: A Human-Annotated Dataset

@@ -12,10 +12,9 @@ main.py
         --out-heatmap data/output/emotion_heatmap.png \
         --out-bar data/output/top_emotions_per_poem.png
 
-김소월(1902~1934)은 저작권 보호기간(사후 70년)이 지난 퍼블릭 도메인
-저자라, OCR 프로젝트와 달리 원문 데이터를 저장소에 그대로 포함해도
-저작권 문제가 없다. (효경언해 프로젝트의 --ground-truth 옵션처럼
-기본값을 꺼두는 식의 별도 조치가 필요 없음)
+김소월(1902~1934)은 저작권 보호기간(사후 70년)이 지난 퍼블릭 도메인 저자라,
+OCR 프로젝트와 달리 원문 데이터를 저장소에 그대로 포함해도 저작권 문제가 없다고 접근했다. 
+(즉, 효경언해 프로젝트의 --ground-truth 옵션처럼 기본값을 꺼두는 식의 별도 조치가 필요 없음)
 """
 
 from __future__ import annotations

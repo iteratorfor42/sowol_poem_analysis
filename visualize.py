@@ -8,8 +8,8 @@ visualize.py
 
 세션 소개에서 언급된 "텍스트를 벡터 공간에 투영해 비교"라는 접근 축을,
 임베딩 기반 UMAP/t-SNE 대신 KPoEM의 43차원 감정 확률 벡터로 구현한 버전.
-감정 라벨 자체가 이미 해석 가능한 축이라, 별도의 차원 축소 없이도
-시들 사이의 정서적 근접성/거리를 히트맵으로 바로 읽을 수 있다는 장점이 있다.
+감정 라벨 자체가 이미 해석 가능한 축이라, 
+별도의 차원 축소 없이도 시들 사이의 정서적 근접성/거리를 히트맵으로 바로 읽을 수 있다는 장점이 있다.
 """
 
 from __future__ import annotations
@@ -28,14 +28,12 @@ def _find_korean_font() -> fm.FontProperties | None:
     """
     한글 폰트를 찾아 FontProperties 객체로 반환한다.
 
-    matplotlib은 여러 언어가 한 파일에 묶인 .ttc(폰트 컬렉션) 안의 특정
-    언어 페이스(예: "Noto Sans CJK KR")를 이름만으로는 제대로 찾지 못하는
-    경우가 있다. OS 차원(fontconfig)에서는 정상적으로 찾아지는데
-    matplotlib의 font.family 이름 검색에서만 실패해서, 폰트가 아예
-    없는 것처럼 동작하다가 특정 글자 조합에서만 렌더링이 깨지는 애매한
-    상태가 될 수 있다. 그래서 이름 검색이 실패하면 자주 쓰이는 한글 폰트
-    파일 경로를 직접 훑어서 파일 경로 기반(FontProperties(fname=...))으로
-    폰트를 지정한다 — 이 방식은 이름 등록 여부와 무관하게 항상 동작한다.
+    matplotlib은 여러 언어가 한 파일에 묶인 
+    .ttc(폰트 컬렉션) 안의 특정 언어 페이스(예: "Noto Sans CJK KR")를 이름만으로는 제대로 찾지 못할 수 있다.
+    OS 차원(fontconfig)에서는 정상적으로 찾아지는데 matplotlib의 font.family 이름 검색에서만 실패해서,
+    폰트가 아예 없는 것처럼 동작하다가 특정 글자 조합에서만 렌더링이 깨지는 애매한 싱태가 될 수 있다. 
+    그래서 이름 검색이 실패하면 자주 쓰이는 한글 폰트 파일 경로를 직접 훑어서 파일 경로 기반(FontProperties(fname=...))으로
+    폰트를 지정한다 — 이 방식은 이름 등록 여부와 무관하게 항상 동작하며, 실제 동작 확인 완료.
     """
     name_candidates = ["NanumGothic", "AppleGothic", "Malgun Gothic", "Noto Sans CJK KR", "Noto Sans KR"]
     available = {f.name for f in fm.fontManager.ttflist}
@@ -63,7 +61,7 @@ def _configure_korean_font() -> fm.FontProperties | None:
     한글 폰트가 없으면 그래프의 한글 라벨이 네모(□)로 깨진다.
     rcParams(전역 폰트 이름 설정)만으로는 .ttc 폰트에서 실패할 수 있어,
     반환된 FontProperties를 각 텍스트 요소(제목/축 라벨 등)에 개별적으로
-    fontproperties=... 인자로 명시 적용하는 것을 권장한다.
+    fontproperties=... 로 명시 적용하는 것을 권장한다.
     """
     plt.rcParams["axes.unicode_minus"] = False
     font_prop = _find_korean_font()
@@ -77,7 +75,7 @@ def build_emotion_matrix(
     """
     (시 제목 목록, 감정 라벨 목록, 확률 행렬)을 반환.
     감정 라벨은 전체 시집 기준으로 평균 확률이 높은 상위 top_n_emotions개만 사용
-    (43개를 다 그리면 히트맵이 과밀해짐).
+    (43개를 다 그리면 히트맵이 과밀해지기에 이렇게 접근한 것).
     """
     all_labels = KPoEMClassifier.LABELS
     prob_by_label: dict[str, list[float]] = {label: [] for label in all_labels}
